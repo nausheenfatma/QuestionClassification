@@ -1,0 +1,52 @@
+ENTY:termeq What do you call a professional map drawer ?
+DESC:def What are Aborigines ?
+DESC:def What is hybridization ?
+ENTY:color What color is indigo ?
+NUM:period How old do you have to be in order to rent a car in Italy ?
+ENTY:other What does a barometer measure ?
+ENTY:color What color is a giraffe 's tongue ?ABBR:exp What does USPS stand for ?
+NUM:date What year did the NFL go on strike ?
+DESC:def What is solar wind ?
+NUM:date What date did Neil Armstrong land on the moon ?
+NUM:date When was Hiroshima bombed ?
+LOC:other Where is the Savannah River ?
+HUM:ind Who was the first woman killed in the Vietnam War ?
+LOC:other What planet has the strongest magnetic field of all the planets ?
+HUM:ind Who is the governor of Alaska ?
+NUM:date What year did Mussolini seize power in Italy ?
+LOC:city What is the capital of Persia ?
+LOC:other Where is the Eiffel Tower ?
+NUM:count How many hearts does an octopus have ?
+DESC:def What is pneumonia ?
+LOC:other What is the deepest lake in the US ?
+DESC:def What is a fuel cell ?
+HUM:ind Who was the first U.S. president to appear on TV ?
+LOC:other Where is the Little League Museum ?
+ENTY:other What are the two types of twins ?
+LOC:other What is the brightest star ?
+DESC:def What is diabetes ?
+NUM:date When was President Kennedy shot ?
+ABBR:exp What is TMJ ?
+ENTY:color What color is yak milk ?
+NUM:date What date was Dwight D. Eisenhower born ?
+ABBR:exp What does the technical term ISDN mean ?
+DESC:reason Why is the sun yellow ?
+NUM:money What is the conversion rate between dollars and pounds ?
+NUM:date When was Abraham Lincoln born ?
+DESC:def What is the Milky Way ?
+DESC:def What is mold ?
+NUM:date What year was Mozart born ?
+ENTY:animal What is a group of frogs called ?
+ENTY:veh What is the name of William Penn 's ship ?
+NUM:other What is the melting point of gold ?
+LOC:other What is the street address of the White House ?
+DESC:def What is semolina ?
+ENTY:food What fruit is Melba sauce made from ?
+DESC:def What is Ursa Major ?
+NUM:perc What is the percentage of water content in the human body ?
+NUM:weight How much does water weigh ?
+ENTY:event What was President Lyndon Johnson 's reform program called ?
+NUM:perc What is the murder rate in Windsor , Ontario ?
+HUM:ind Who is the only president to serve 2 non-consecutive terms ?
+NUM:other What is the population of Australia ?
+HUM:ind Who painted the ceiling of the Sistine Chapel ?

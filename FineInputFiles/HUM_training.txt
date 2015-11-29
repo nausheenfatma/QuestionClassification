@@ -1,0 +1,1443 @@
+6 HUM:ind What contemptible scoundrel stole the cork from my lunch ?
+7 HUM:gr What team did baseball 's St. Louis Browns become ?
+8 HUM:title What is the oldest profession ?
+10 HUM:ind Name the scar-faced bounty hunter of The Old West .
+13 HUM:ind Who was The Pride of the Yankees ?
+14 HUM:ind Who killed Gandhi ?
+23 HUM:ind Name 11 famous martyrs .
+27 HUM:ind Who was the inventor of silly putty ?
+34 HUM:gr Which company that manufactures video-game hardware sells the `` super system '' ?
+46 HUM:ind What 1920s cowboy star rode Tony the Wonder Horse ?
+48 HUM:gr What ISPs exist in the Caribbean ?
+53 HUM:ind Who was the prophet of the Muslim people ?
+55 HUM:ind Who is Snoopy 's arch-enemy ?
+65 HUM:ind Who do Herb and Tootsie live next door to ?
+71 HUM:ind Who is the founder of Scientology ?
+74 HUM:ind Who starred in Singing in the Rain and The Singing Nun ?
+76 HUM:ind What 19th-century painter died in the Marquesas Islands ?
+88 HUM:ind Who were the five Marx brothers ?
+96 HUM:gr What company 's logo is a `` W '' in a circle ?
+100 HUM:ind Who invented Make-up ?
+104 HUM:ind Which of the following was Rhodes Scholar ?
+105 HUM:ind Who comprised the now-defunct comic book team known as the Champions ?
+127 HUM:ind What crooner joined The Andrews Sisters for Pistol Packin Mama ?
+128 HUM:gr What piano company claims its product is the `` Instrument of the immortals '' ?
+136 HUM:ind What actress has received the most Oscar nominations ?
+148 HUM:gr Who produces Spumante ?
+149 HUM:ind Who earns their money the hard way ?
+150 HUM:ind Who founded the People 's Temple Commune ?
+151 HUM:ind What athlete makes the most money from sports merchandise sales ?
+153 HUM:ind Who discovered electricity ?
+155 HUM:ind Who was the first American in space ?
+165 HUM:gr Which Japanese car maker had its biggest percentage of sale in the domestic market ?
+166 HUM:ind Who is the mayor of Marbella ?
+172 HUM:ind Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ?
+173 HUM:ind Who directed `` Jaws '' ?
+175 HUM:gr What Indian tribe is F Troop perpetually doing battle with ?
+182 HUM:ind What is the name of the managing director of Apricot Computer ?
+183 HUM:title What is the occupation of Nicholas Cage ?
+192 HUM:gr Which Ventura County police department seized the largest cocaine shipment in it 's history ?
+195 HUM:ind Who created Dennis the Menace ?
+196 HUM:ind What dummy received an honorary degree from Northwestern University ?
+200 HUM:ind Name Alvin 's brothers
+204 HUM:ind What actor said in A Day at the Races : `` Either he 's dead or my watch has stopped '' ?
+205 HUM:ind What explorer was nicknamed Iberia 's Pilot ?
+209 HUM:gr Which company created the Internet browser Mosaic ?
+219 HUM:gr What organization 's offices were broken into at Watergate in 1972 ?
+232 HUM:ind What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?
+234 HUM:ind Who was the mother of the man who would not be king , the duke of Windsor ?
+239 HUM:ind What was the name of the first Russian astronaut to do a spacewalk ?
+246 HUM:ind Who wrote NN DT NNP NNP '' ?
+251 HUM:ind What diminutive American female gymnast stole the show at the 1984 Olympics ?
+253 HUM:gr What schools in the Washington , DC NN NN VBP NN NN NN NN .
+255 HUM:desc Who is Terrence Malick ?
+269 HUM:ind Who was President of Afghanistan in 1994 ?
+273 HUM:ind Who was the lead actress in the movie ` Sleepless in Seattle ' ?
+274 HUM:ind Who was the 16th President of the United States ?
+275 HUM:ind Who are the two sons of Ozzie and Harriet Nelson ?
+286 HUM:ind Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?
+287 HUM:ind Who was the founding member of the Pink Floyd band ?
+301 HUM:gr What toy company is the world 's No.1 maker of female apparel ?
+303 HUM:ind Which Doonesbury character was likely to turn into a werewolf ?
+306 HUM:gr Who has won the most Super Bowls ?
+311 HUM:ind Who has the only speaking role in `` Silent Movie '' ?
+315 HUM:ind What girl 's name is `` Teddy '' an affectionate form of ?
+319 HUM:gr What company tabulates the ballots in voting for the Academy Awards ?
+326 HUM:ind Who made a boat out of gopher wood ?
+328 HUM:ind Which Bloom County resident wreaks havoc with a computer ?
+336 HUM:ind What part did John Peter Zenger play in the deveopment of the newspaper in America ?
+337 HUM:ind Who followed Caesar ?
+339 HUM:ind Who was the first woman golfer to earn a million ?
+343 HUM:ind Who does the advertizing for Frito-Lay ?
+344 HUM:gr Who is the leading competitor of Trans Union Company ?
+346 HUM:ind Who invented the radio ?
+350 HUM:ind Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?
+353 HUM:ind What actor first portrayed James Bond ?
+355 HUM:ind Who was the first American poet to win the Nobel Prize for literature , in 1948 ?
+359 HUM:ind Who won the Nobel Peace Prize in 1991 ?
+360 HUM:gr Who are the Challengers of the Unknown ?
+365 HUM:ind Who was the first coach of the Cleveland Browns ?
+370 HUM:ind Who said of Super Bowl III in 1969 : `` We 'll win- I guarantee it '' ?
+372 HUM:ind Who declared : `` I am down on whores and I shan 't stop ripping them '' ?
+375 HUM:ind What Soviet leader owned a Rolls-Royce ?
+378 HUM:ind Who wrote the song , `` Stardust '' ?
+380 HUM:ind Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?
+383 HUM:ind Who received the Will Rogers Award in 1989 ?
+390 HUM:ind What was the name of the lawyer who represented Randy Craft ?
+391 HUM:ind What United States President had dreamed that he was assassinated ?
+416 HUM:gr What Polynesian people inhabit New Zealand ?
+419 HUM:ind What President lived at 219 North Delaware Street , Independence , Missouri ?
+426 HUM:ind What famous model was married to Billy Joel ?
+431 HUM:ind Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?
+432 HUM:desc Who is Stein Eriksen ?
+434 HUM:ind Who is the fastest swimmer in the world ?
+450 HUM:ind What actor 's autobiography is titled All My Yesterdays ?
+451 HUM:ind What Russian master spy lived in the U.S. under the name Emil Goldfus ?
+454 HUM:ind Who played the original Charlie 's Angels ?
+460 HUM:ind Who wrote The Night of the Iguana ?
+463 HUM:ind Who painted Mother and Child ?
+468 HUM:ind What was Mao 's second name ?
+471 HUM:desc Who is the `` Queen Mother '' ?
+473 HUM:ind Who has more DNA - a man or a woman ?
+476 HUM:gr What level of government or governmental agency is responsible for dealing with racism ?
+483 HUM:ind Who came up with the name , El Nino ?
+486 HUM:ind What dictator has the nickname `` El Maximo '' ?
+487 HUM:gr What stereo manufacturer is `` Slightly ahead of its time '' ?
+489 HUM:ind What TV sitcom character had the maiden name Ethel Potter ?
+491 HUM:ind Who kept the most famous diary in the English language ?
+494 HUM:ind What Spanish artist painted Crucifixion ?
+498 HUM:ind What spy novelist served as Moscow correspondent for Reuter and The Times of London ?
+499 HUM:gr Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?
+501 HUM:ind Who was Randy Steven Craft 's lawyer ?
+503 HUM:ind Who was the first host of Person to Person ?
+504 HUM:ind Name the Ranger who was always after Yogi Bear .
+507 HUM:ind Who is the superstar in rent-a-cars ?
+524 HUM:ind Who is the president of Stanford University ?
+525 HUM:ind Whose first presidential order was : `` Let 's get this goddamn thing airborne '' ?
+533 HUM:ind Who invented baseball ?
+541 HUM:ind Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?
+556 HUM:gr What is the best college in the country ?
+570 HUM:ind What wrestling star became `` The Incredible Hulk '' ?
+575 HUM:ind Who was the star of the 1965 Broadway hit Golden Boy ?
+577 HUM:gr What army was founded by William Booth and his wife Catherine ?
+581 HUM:ind What was her real name ?
+583 HUM:ind Who invented the toothbrush ?
+594 HUM:ind What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?
+596 HUM:ind What video game hero do some of his fans call Chomper ?
+600 HUM:ind What TV comediennes 's characters include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice ?
+609 HUM:gr What was the name of the 187s Irish terrorist group in Pennsylvania mining areas ?
+610 HUM:ind Who played the Ringo Kid in the 1939 film Stagecoach ?
+611 HUM:ind Who died 1 feet from where John F. Kennedy did ?
+618 HUM:ind What first name was Nipsy Russell given at birth ?
+620 HUM:ind Who is the youngest of the Beatles ?
+633 HUM:desc Who is Coronado ?
+637 HUM:ind Who was the first Holy Roman Emperor ?
+644 HUM:gr Name the organization that is presided by a Security Council .
+645 HUM:ind Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?
+647 HUM:ind Who portrayed portly criminologist Carl Hyatt on Checkmate ?
+654 HUM:gr Whom did the Chicago Bulls beat in the 1993 championship ?
+659 HUM:desc Who is Desmond Tutu ?
+664 HUM:ind What are the first names of Rowan and Martin , the stars of TV 's Laugh-In ?
+666 HUM:ind Who is the worst US President ever ?
+667 HUM:ind What Asian leader was known as The Little Brown Saint ?
+672 HUM:ind Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ?
+678 HUM:ind Who is the monarch of the United Kingdom ?
+681 HUM:ind What are the top ten most common girl names in the US ?
+689 HUM:ind Who does data collection in tourism ?
+690 HUM:ind What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?
+694 HUM:ind Who were the four famous founders of United Artists ?
+700 HUM:ind Who was the only U.S. President to wear a Nazi uniform ?
+701 HUM:gr Woodrow Wilson served as president of what university ?
+703 HUM:ind What 's the nickname of oddsmaker Jimmy Snyder ?
+706 HUM:title What was Queen Victoria 's title regarding India ?
+718 HUM:ind Whose autobiography is titled Yes I Can ?
+724 HUM:ind Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?
+727 HUM:ind What double talking `` professor '' holds a doctorate in Nothing ?
+729 HUM:ind What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?
+732 HUM:ind What was the name of the cook on Rawhide ?
+736 HUM:ind Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage .
+741 HUM:ind What author landed a 468-pound marlin without harness in the early 193 's ?
+751 HUM:ind What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?
+753 HUM:ind Who delivered his last newscast on March 6 , 1981 ?
+767 HUM:ind What former major-league left-handed baseball pitcher was known as `` Space Man '' ?
+770 HUM:ind What was Michelangelo 's last name ?
+771 HUM:desc Who is Barbara Jordan ?
+772 HUM:ind Who was the Democratic nominee in the American presidential election ?
+784 HUM:ind What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?
+788 HUM:gr What college produced the most winning Super Bowl quarterbacks ?
+791 HUM:ind What classical Spanish writer warned : `` All that glitters is not gold '' ?
+793 HUM:ind What actor married John F. Kennedy 's sister ?
+795 HUM:ind Who fired Maria Ybarra from her position in San Diego council ?
+799 HUM:ind Who was the first black golfer to tee off in the Masters ?
+801 HUM:ind What U.S. President showed a fondness for munching on bee pollen bars ?
+803 HUM:ind Whose cover is that of an employee of Universal Import and Export ?
+804 HUM:ind What former president 's daughter has written a book titled Murder in the White House ?
+805 HUM:ind What fictional character is known as the `` melancholy Dane '' ?
+807 HUM:ind What longtime game show host dropped dead while jogging in Central Park in 1984 ?
+809 HUM:ind Who were the `` filthiest people alive ? ''
+822 HUM:ind What is the real name of disc jockey `` Wolfman Jack '' ?
+828 HUM:ind Who invented silly putty ?
+829 HUM:gr What new middle school was built in Philadelphia , Pennsylvania last year ?
+830 HUM:ind Who patented the first phonograph ?
+839 HUM:ind Who created private detective Philip Marlowe ?
+845 HUM:desc Who is Colin Powell ?
+849 HUM:ind Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?
+851 HUM:title What is her profession ?
+852 HUM:ind What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?
+855 HUM:ind Who was Lauren Bacall 's first husband ?
+859 HUM:ind What U.S. Congressman said : `` Keep the faith , baby '' .
+860 HUM:ind Who created the character of Scrooge ?
+865 HUM:gr What party was Winston Churchill a member of ?
+866 HUM:gr What American League baseball team 's worst finish between 1926 and 1964 was fourth ?
+874 HUM:ind Who was the author of `` John Brown 's Body '' ?
+875 HUM:ind What American poet wrote : `` Good fences make good neighbors '' ?
+878 HUM:title What was the occupation of Mandy Rice-Davies ?
+880 HUM:ind Who painted the Sistine Chapel ?
+881 HUM:ind Name the various costumed personas of Dr. Henry Pym .
+887 HUM:ind What explorers followed Columbus to the Americas ?
+888 HUM:ind Who is actress Goldie Hawn 's current actor boyfriend ?
+889 HUM:ind Who banned Peter Rose from baseball for betting on games ?
+896 HUM:ind What are the names of Richard Nixon 's two daughters ?
+899 HUM:gr What organization was founded by the Rev. Jerry Falwell ?
+902 HUM:gr What company is being bought by Yahoo and how much is the deal worth ?
+908 HUM:ind Who was nicknamed The Little Corporal ?
+920 HUM:ind What was American folk hero John Chapman 's nickname ?
+924 HUM:ind What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ?
+928 HUM:ind Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
+937 HUM:ind What barroom judge called himself The Law West of the Pecos ?
+939 HUM:ind Who was President of Costa Rica in 1994 ?
+943 HUM:ind Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?
+949 HUM:ind What actor starred in 1980 's Blue Lagoon , 1982 's The Pirate Movie and 1983 's A Night in Heaven ?
+953 HUM:ind Who is the voice of Miss Piggy ?
+956 HUM:ind Who replaced Bert Parks as the host of The Miss America Pageant ?
+972 HUM:ind Who was the first person inducted into the U.S. Swimming Hall of Fame ?
+973 HUM:ind What golfer has been called Ohio Fats and Blobbo ?
+974 HUM:ind Who murdered Leno and Rosemary LaBianca on August 1
+977 HUM:ind Which of the following men was not married to Rita Hayworth ?
+985 HUM:ind Who said , `` I shall return . '' during World War Two ?
+987 HUM:ind Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?
+997 HUM:ind Who was the Charlie perfume woman ?
+998 HUM:ind Who portrayed `` Rosanne Rosanna-Dana '' on the television show `` Saturday Night Live '' ?
+1004 HUM:ind What contemptible scoundrel stole the cork from my lunch ?
+1005 HUM:gr What team did baseball 's St. Louis Browns become ?
+1006 HUM:title What is the oldest profession ?
+1008 HUM:ind Name the scar-faced bounty hunter of The Old West .
+1011 HUM:ind Who was The Pride of the Yankees ?
+1012 HUM:ind Who killed Gandhi ?
+1021 HUM:ind Name 11 famous martyrs .
+1025 HUM:ind Who was the inventor of silly putty ?
+1032 HUM:gr Which company that manufactures video-game hardware sells the `` super system '' ?
+1044 HUM:ind What 1920s cowboy star rode Tony the Wonder Horse ?
+1046 HUM:gr What ISPs exist in the Caribbean ?
+1051 HUM:ind Who was the prophet of the Muslim people ?
+1053 HUM:ind Who is Snoopy 's arch-enemy ?
+1063 HUM:ind Who do Herb and Tootsie live next door to ?
+1070 HUM:ind Who is the founder of Scientology ?
+1073 HUM:ind Who starred in Singing in the Rain and The Singing Nun ?
+1075 HUM:ind What 19th-century painter died in the Marquesas Islands ?
+1087 HUM:ind Who were the five Marx brothers ?
+1095 HUM:gr What company 's logo is a `` W '' in a circle ?
+1099 HUM:ind Who invented Make-up ?
+1103 HUM:ind Which of the following was Rhodes Scholar ?
+1104 HUM:ind Who comprised the now-defunct comic book team known as the Champions ?
+1126 HUM:ind What crooner joined The Andrews Sisters for Pistol Packin Mama ?
+1127 HUM:gr What piano company claims its product is the `` Instrument of the immortals '' ?
+1135 HUM:ind What actress has received the most Oscar nominations ?
+1147 HUM:gr Who produces Spumante ?
+1148 HUM:ind Who earns their money the hard way ?
+1149 HUM:ind Who founded the People 's Temple Commune ?
+1150 HUM:ind What athlete makes the most money from sports merchandise sales ?
+1152 HUM:ind Who discovered electricity ?
+1154 HUM:ind Who was the first American in space ?
+1164 HUM:gr Which Japanese car maker had its biggest percentage of sale in the domestic market ?
+1165 HUM:ind Who is the mayor of Marbella ?
+1171 HUM:ind Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ?
+1172 HUM:ind Who directed `` Jaws '' ?
+1174 HUM:gr What Indian tribe is F Troop perpetually doing battle with ?
+1181 HUM:ind What is the name of the managing director of Apricot Computer ?
+1182 HUM:title What is the occupation of Nicholas Cage ?
+1191 HUM:gr Which Ventura County police department seized the largest cocaine shipment in it 's history ?
+1194 HUM:ind Who created Dennis the Menace ?
+1195 HUM:ind What dummy received an honorary degree from Northwestern University ?
+1199 HUM:ind Name Alvin 's brothers
+1203 HUM:ind What actor said in A Day at the Races : `` Either he 's dead or my watch has stopped '' ?
+1204 HUM:ind What explorer was nicknamed Iberia 's Pilot ?
+1208 HUM:gr Which company created the Internet browser Mosaic ?
+1218 HUM:gr What organization 's offices were broken into at Watergate in 1972 ?
+1231 HUM:ind What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?
+1233 HUM:ind Who was the mother of the man who would not be king , the duke of Windsor ?
+1238 HUM:ind What was the name of the first Russian astronaut to do a spacewalk ?
+1245 HUM:ind Who wrote NN DT NNP NNP '' ?
+1250 HUM:ind What diminutive American female gymnast stole the show at the 1984 Olympics ?
+1252 HUM:gr What schools in the Washington , DC NN NN VBP NN NN NN NN .
+1254 HUM:desc Who is Terrence Malick ?
+1268 HUM:ind Who was President of Afghanistan in 1994 ?
+1272 HUM:ind Who was the lead actress in the movie ` Sleepless in Seattle ' ?
+1273 HUM:ind Who was the 16th President of the United States ?
+1274 HUM:ind Who are the two sons of Ozzie and Harriet Nelson ?
+1285 HUM:ind Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?
+1286 HUM:ind Who was the founding member of the Pink Floyd band ?
+1300 HUM:gr What toy company is the world 's No.1 maker of female apparel ?
+1302 HUM:ind Which Doonesbury character was likely to turn into a werewolf ?
+1305 HUM:gr Who has won the most Super Bowls ?
+1310 HUM:ind Who has the only speaking role in `` Silent Movie '' ?
+1314 HUM:ind What girl 's name is `` Teddy '' an affectionate form of ?
+1318 HUM:gr What company tabulates the ballots in voting for the Academy Awards ?
+1325 HUM:ind Who made a boat out of gopher wood ?
+1327 HUM:ind Which Bloom County resident wreaks havoc with a computer ?
+1335 HUM:ind What part did John Peter Zenger play in the deveopment of the newspaper in America ?
+1336 HUM:ind Who followed Caesar ?
+1338 HUM:ind Who was the first woman golfer to earn a million ?
+1342 HUM:ind Who does the advertizing for Frito-Lay ?
+1343 HUM:gr Who is the leading competitor of Trans Union Company ?
+1345 HUM:ind Who invented the radio ?
+1349 HUM:ind Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?
+1352 HUM:ind What actor first portrayed James Bond ?
+1354 HUM:ind Who was the first American poet to win the Nobel Prize for literature , in 1948 ?
+1358 HUM:ind Who won the Nobel Peace Prize in 1991 ?
+1359 HUM:gr Who are the Challengers of the Unknown ?
+1364 HUM:ind Who was the first coach of the Cleveland Browns ?
+1369 HUM:ind Who said of Super Bowl III in 1969 : `` We 'll win- I guarantee it '' ?
+1371 HUM:ind Who declared : `` I am down on whores and I shan 't stop ripping them '' ?
+1374 HUM:ind What Soviet leader owned a Rolls-Royce ?
+1377 HUM:ind Who wrote the song , `` Stardust '' ?
+1379 HUM:ind Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?
+1382 HUM:ind Who received the Will Rogers Award in 1989 ?
+1389 HUM:ind What was the name of the lawyer who represented Randy Craft ?
+1390 HUM:ind What United States President had dreamed that he was assassinated ?
+1415 HUM:gr What Polynesian people inhabit New Zealand ?
+1418 HUM:ind What President lived at 219 North Delaware Street , Independence , Missouri ?
+1425 HUM:ind What famous model was married to Billy Joel ?
+1430 HUM:ind Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?
+1431 HUM:desc Who is Stein Eriksen ?
+1433 HUM:ind Who is the fastest swimmer in the world ?
+1449 HUM:ind What actor 's autobiography is titled All My Yesterdays ?
+1450 HUM:ind What Russian master spy lived in the U.S. under the name Emil Goldfus ?
+1453 HUM:ind Who played the original Charlie 's Angels ?
+1459 HUM:ind Who wrote The Night of the Iguana ?
+1462 HUM:ind Who painted Mother and Child ?
+1467 HUM:ind What was Mao 's second name ?
+1470 HUM:desc Who is the `` Queen Mother '' ?
+1472 HUM:ind Who has more DNA - a man or a woman ?
+1475 HUM:gr What level of government or governmental agency is responsible for dealing with racism ?
+1482 HUM:ind Who came up with the name , El Nino ?
+1485 HUM:ind What dictator has the nickname `` El Maximo '' ?
+1486 HUM:gr What stereo manufacturer is `` Slightly ahead of its time '' ?
+1488 HUM:ind What TV sitcom character had the maiden name Ethel Potter ?
+1490 HUM:ind Who kept the most famous diary in the English language ?
+1493 HUM:ind What Spanish artist painted Crucifixion ?
+1497 HUM:ind What spy novelist served as Moscow correspondent for Reuter and The Times of London ?
+1498 HUM:gr Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?
+1500 HUM:ind Who was Randy Steven Craft 's lawyer ?
+1502 HUM:ind Who was the first host of Person to Person ?
+1503 HUM:ind Name the Ranger who was always after Yogi Bear .
+1506 HUM:ind Who is the superstar in rent-a-cars ?
+1523 HUM:ind Who is the president of Stanford University ?
+1524 HUM:ind Whose first presidential order was : `` Let 's get this goddamn thing airborne '' ?
+1532 HUM:ind Who invented baseball ?
+1540 HUM:ind Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?
+1555 HUM:gr What is the best college in the country ?
+1569 HUM:ind What wrestling star became `` The Incredible Hulk '' ?
+1574 HUM:ind Who was the star of the 1965 Broadway hit Golden Boy ?
+1576 HUM:gr What army was founded by William Booth and his wife Catherine ?
+1580 HUM:ind What was her real name ?
+1582 HUM:ind Who invented the toothbrush ?
+1593 HUM:ind What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?
+1595 HUM:ind What video game hero do some of his fans call Chomper ?
+1599 HUM:ind What TV comediennes 's characters include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice ?
+1608 HUM:gr What was the name of the 187s Irish terrorist group in Pennsylvania mining areas ?
+1609 HUM:ind Who played the Ringo Kid in the 1939 film Stagecoach ?
+1610 HUM:ind Who died 1 feet from where John F. Kennedy did ?
+1617 HUM:ind What first name was Nipsy Russell given at birth ?
+1619 HUM:ind Who is the youngest of the Beatles ?
+1632 HUM:desc Who is Coronado ?
+1636 HUM:ind Who was the first Holy Roman Emperor ?
+1643 HUM:gr Name the organization that is presided by a Security Council .
+1644 HUM:ind Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?
+1646 HUM:ind Who portrayed portly criminologist Carl Hyatt on Checkmate ?
+1653 HUM:gr Whom did the Chicago Bulls beat in the 1993 championship ?
+1658 HUM:desc Who is Desmond Tutu ?
+1663 HUM:ind What are the first names of Rowan and Martin , the stars of TV 's Laugh-In ?
+1665 HUM:ind Who is the worst US President ever ?
+1666 HUM:ind What Asian leader was known as The Little Brown Saint ?
+1671 HUM:ind Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ?
+1677 HUM:ind Who is the monarch of the United Kingdom ?
+1680 HUM:ind What are the top ten most common girl names in the US ?
+1688 HUM:ind Who does data collection in tourism ?
+1689 HUM:ind What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?
+1693 HUM:ind Who were the four famous founders of United Artists ?
+1699 HUM:ind Who was the only U.S. President to wear a Nazi uniform ?
+1700 HUM:gr Woodrow Wilson served as president of what university ?
+1702 HUM:ind What 's the nickname of oddsmaker Jimmy Snyder ?
+1705 HUM:title What was Queen Victoria 's title regarding India ?
+1717 HUM:ind Whose autobiography is titled Yes I Can ?
+1723 HUM:ind Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?
+1726 HUM:ind What double talking `` professor '' holds a doctorate in Nothing ?
+1728 HUM:ind What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?
+1731 HUM:ind What was the name of the cook on Rawhide ?
+1735 HUM:ind Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage .
+1740 HUM:ind What author landed a 468-pound marlin without harness in the early 193 's ?
+1750 HUM:ind What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?
+1752 HUM:ind Who delivered his last newscast on March 6 , 1981 ?
+1766 HUM:ind What former major-league left-handed baseball pitcher was known as `` Space Man '' ?
+1769 HUM:ind What was Michelangelo 's last name ?
+1770 HUM:desc Who is Barbara Jordan ?
+1771 HUM:ind Who was the Democratic nominee in the American presidential election ?
+1783 HUM:ind What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?
+1787 HUM:gr What college produced the most winning Super Bowl quarterbacks ?
+1790 HUM:ind What classical Spanish writer warned : `` All that glitters is not gold '' ?
+1792 HUM:ind What actor married John F. Kennedy 's sister ?
+1794 HUM:ind Who fired Maria Ybarra from her position in San Diego council ?
+1798 HUM:ind Who was the first black golfer to tee off in the Masters ?
+1800 HUM:ind What U.S. President showed a fondness for munching on bee pollen bars ?
+1802 HUM:ind Whose cover is that of an employee of Universal Import and Export ?
+1803 HUM:ind What former president 's daughter has written a book titled Murder in the White House ?
+1804 HUM:ind What fictional character is known as the `` melancholy Dane '' ?
+1806 HUM:ind What longtime game show host dropped dead while jogging in Central Park in 1984 ?
+1808 HUM:ind Who were the `` filthiest people alive ? ''
+1821 HUM:ind What is the real name of disc jockey `` Wolfman Jack '' ?
+1827 HUM:ind Who invented silly putty ?
+1828 HUM:gr What new middle school was built in Philadelphia , Pennsylvania last year ?
+1829 HUM:ind Who patented the first phonograph ?
+1838 HUM:ind Who created private detective Philip Marlowe ?
+1844 HUM:desc Who is Colin Powell ?
+1848 HUM:ind Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?
+1850 HUM:title What is her profession ?
+1851 HUM:ind What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?
+1854 HUM:ind Who was Lauren Bacall 's first husband ?
+1858 HUM:ind What U.S. Congressman said : `` Keep the faith , baby '' .
+1859 HUM:ind Who created the character of Scrooge ?
+1864 HUM:gr What party was Winston Churchill a member of ?
+1865 HUM:gr What American League baseball team 's worst finish between 1926 and 1964 was fourth ?
+1873 HUM:ind Who was the author of `` John Brown 's Body '' ?
+1874 HUM:ind What American poet wrote : `` Good fences make good neighbors '' ?
+1877 HUM:title What was the occupation of Mandy Rice-Davies ?
+1879 HUM:ind Who painted the Sistine Chapel ?
+1880 HUM:ind Name the various costumed personas of Dr. Henry Pym .
+1886 HUM:ind What explorers followed Columbus to the Americas ?
+1887 HUM:ind Who is actress Goldie Hawn 's current actor boyfriend ?
+1888 HUM:ind Who banned Peter Rose from baseball for betting on games ?
+1895 HUM:ind What are the names of Richard Nixon 's two daughters ?
+1898 HUM:gr What organization was founded by the Rev. Jerry Falwell ?
+1901 HUM:gr What company is being bought by Yahoo and how much is the deal worth ?
+1907 HUM:ind Who was nicknamed The Little Corporal ?
+1919 HUM:ind What was American folk hero John Chapman 's nickname ?
+1923 HUM:ind What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ?
+1927 HUM:ind Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
+1936 HUM:ind What barroom judge called himself The Law West of the Pecos ?
+1938 HUM:ind Who was President of Costa Rica in 1994 ?
+1942 HUM:ind Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?
+1948 HUM:ind What actor starred in 1980 's Blue Lagoon , 1982 's The Pirate Movie and 1983 's A Night in Heaven ?
+1952 HUM:ind Who is the voice of Miss Piggy ?
+1955 HUM:ind Who replaced Bert Parks as the host of The Miss America Pageant ?
+1971 HUM:ind Who was the first person inducted into the U.S. Swimming Hall of Fame ?
+1972 HUM:ind What golfer has been called Ohio Fats and Blobbo ?
+1973 HUM:ind Who murdered Leno and Rosemary LaBianca on August 1
+1976 HUM:ind Which of the following men was not married to Rita Hayworth ?
+1984 HUM:ind Who said , `` I shall return . '' during World War Two ?
+1986 HUM:ind Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?
+1996 HUM:ind Who was the Charlie perfume woman ?
+1997 HUM:ind Who portrayed `` Rosanne Rosanna-Dana '' on the television show `` Saturday Night Live '' ?
+1998 HUM:ind What singer became despondent over the death of Freddie Prinze , quit show business , and then quit the business ?
+2002 HUM:gr What was the backup singing group for Roy Rogers ?
+2003 HUM:ind What famous singing cowboy owns the California Angels baseball team ?
+2011 HUM:ind Who was Gerald Ford 's vice president ?
+2016 HUM:ind Who invented batteries ?
+2019 HUM:title What title did Suzette Charles assume for two months in 1984 ?
+2020 HUM:ind What was the infamous pseudonym of Peter Sutcliffe ?
+2022 HUM:title What is Nicholas Cage 's occupation ?
+2036 HUM:gr What Japanese manufacturer is known for both its pianos and its motorcycles ?
+2048 HUM:ind Who did Sonny Liston succeed as world heavyweight boxing champion ?
+2051 HUM:gr Name the various super-teams to which the Angel has belonged .
+2054 HUM:ind What President dispatched a cruiser to carry Charles Lindbergh home after his epic flight ?
+2055 HUM:ind Whose video is titled Shape Up with Arnold ?
+2067 HUM:ind Who 's the twin brother of the Greek goddess Artemis ?
+2083 HUM:ind Who was America 's first Public Enemy No. 1 ?
+2089 HUM:desc Who is Dear Abby ?
+2090 HUM:ind Who lives at 24 Sussex Drive , Ottawa ?
+2092 HUM:desc Who was Monet ?
+2097 HUM:ind Who was the famous door-to-door brush salesman ?
+2099 HUM:gr What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?
+2101 HUM:ind Who is always trying to get the rent from Andy Capp ?
+2103 HUM:ind Who did Jackie Kennedy commission to write The Death of a President ?
+2107 HUM:ind Who sought to create The Great Society ?
+2110 HUM:ind Who said : `` Soldiers win the battles and generals get the credit '' ?
+2119 HUM:ind Who is the current UN Secretary General ?
+2120 HUM:gr Who provides telephone service in Orange County , California ?
+2124 HUM:gr What organization did Mr. Waverly assign agents for ?
+2126 HUM:ind What are the characters ' names in the Scooby-Doo cartoon ?
+2128 HUM:title What was Eduard Shevardnadze 's job in the Soviet Union ?
+2130 HUM:ind Which is the only Dick Tracy villain to appear three times ?
+2143 HUM:title What is Larry King 's job ?
+2151 HUM:ind What feathered cartoon characters do Yugoslavians know as Vlaja , Gaja , and Raja ?
+2168 HUM:desc Who was Lacan ?
+2171 HUM:ind Who was the Secretary of War in the Civil War during the Battle of Gettysburg ?
+2172 HUM:ind Who did Bobby Fischer beat to win the world chess championship ?
+2193 HUM:ind Name the lawyer for Randy Craft .
+2201 HUM:ind Who lives at 39 Stone Canyon Way ?
+2203 HUM:ind Who played Humpty Dumpty in the 1933 film Alice in Wonderland ?
+2204 HUM:ind Who is Karenna Gore , Al Gore 's oldest daughter , married to ?
+2205 HUM:ind Who played the title role in I Was a Teenage Werewolf ?
+2209 HUM:gr What record company produced the 1978 movie The Wiz ?
+2213 HUM:ind What is the name of actor Rex Harrison 's son , who starred in a modestly popular TV show during the late 1960's ?
+2216 HUM:ind Who was the inventor of the stove ?
+2217 HUM:ind What comedian has a legendary reputation for stealing jokes ?
+2224 HUM:ind Who was the king who was forced to agree to the Magna Carta ?
+2225 HUM:ind Who was made the first honorary citizen of the U.S. ?
+2231 HUM:gr What baseball team was routinely called `` dem bums '' by its frustrated fans ?
+2232 HUM:ind Name of scholar on whose literal translations from the Chinese and Japanese Ezra Pound depended ?
+2235 HUM:ind Name the On Stage character whose face was never seen .
+2237 HUM:gr What is the best Internet business to go into ?
+2239 HUM:ind Who is known as `` the world 's oldest teenager '' ?
+2250 HUM:ind What baseball team owner and sailor is known as The Mouth of the South ?
+2253 HUM:ind Who was with Patricia Hearst the night she was kidnaped ?
+2254 HUM:ind What is the Viking Prince 's first name ?
+2258 HUM:ind What boxer 's life story is titled Raging Bull ?
+2260 HUM:ind Who advised listeners to `` see the U.S.A. in your Chevrolet '' ?
+2265 HUM:ind What Nobel laureate was expelled from the Philippines before the conference on East Timor ?
+2266 HUM:ind What woman has carried the most multiple births , twins , triplets , etc. , ?
+2278 HUM:ind Which Bourbon king was restored to the French throne during Napoleon 's abdication ?
+2286 HUM:ind What daughter of Henry VIII and Anne Boleyn became queen of England ?
+2288 HUM:gr What 's the most common nickname of U.S. college football teams ?
+2294 HUM:ind What comedienne upstaged Dwight D. Eisenhower 's first inauguration by giving birth to her first child ?
+2299 HUM:ind Who sang about Desmond and Molly Jones ?
+2302 HUM:ind What costume designer decided that Michael Jackson should only wear one glove ?
+2306 HUM:gr What company was the original sponsor of TV 's Superman ?
+2315 HUM:ind Name the blind sculptress in love with the Fantastic Four 's Thing .
+2320 HUM:ind What National Basketball Association superstar told his story in Giant Steps ?
+2325 HUM:ind Who developed the first polio vaccine ?
+2326 HUM:ind Who made the first gas engine ?
+2332 HUM:ind What character did Tex Avery first create upon arriving at MGM ?
+2334 HUM:ind What Asian spiritual and political leader was married at the age of 13 ?
+2349 HUM:ind What English queen had seventeen children ?
+2352 HUM:ind What two baseball players make up the battery ?
+2358 HUM:ind Who sells Viagra ?
+2363 HUM:desc Who was Darius ?
+2365 HUM:ind Who did Dita Beard work for ?
+2367 HUM:gr Name the university of which Woodrow Wilson was president .
+2369 HUM:gr What university was Woodrow Wilson President of ?
+2375 HUM:ind Who served as inspiration for the schoolteacher portrayed by Robin Williams in `` Dead Poets Society '' ?
+2377 HUM:title Name the five positions who are in the line of succession to the presidency .
+2378 HUM:ind Which one of the original seven Mercury program astronauts did not fly on any of the Mercury flights ?
+2379 HUM:ind Who is the best known villain of the 165 Gunpowder Plot ?
+2383 HUM:ind Who killed more people , Hitler or Stalin ?
+2391 HUM:ind What mustachioed comedian portrayed Frankie in North to Alaska ?
+2393 HUM:ind What actor and World War II airman had a $5 , 0 bounty put on his head by Hermann Goering ?
+2397 HUM:desc Who is Nicolo Paganini ?
+2400 HUM:ind Who portrayed Dracula in Hammer Studios ' films ?
+2403 HUM:ind What President 's favorite Biblical quotation was : `` Come now , and let us reason together '' .
+2405 HUM:gr Name the food company that traveled to Soviet Georgia to film a series of ads .
+2412 HUM:gr What Japanese electronics company was named for a coastal city northeast of Tokyo ?
+2416 HUM:ind What mystery writer penned `` ...the glory that was Greece , and the grandeur that was Rome '' ?
+2436 HUM:ind What is the protagonist 's name in Dostoevski 's `` The Idiot '' ?
+2438 HUM:ind What presidential press secretary dismissed Watergate as a third-rate burglary attempt ?
+2440 HUM:desc Who was Jean Nicolet ?
+2442 HUM:ind Which of these are authors ?
+2444 HUM:ind Who was the original Humpty Dumpty ?
+2450 HUM:ind Whose cupboard was bare ?
+2455 HUM:ind What 's the name of Popeye 's adopted son ?
+2456 HUM:ind Who invented the vacuum cleaner ?
+2458 HUM:ind What 2th-century fictional character attends Pencey Prep School ?
+2460 HUM:ind Who does Shakespeare 's Antonio borrow 3 , 0 ducats from ?
+2465 HUM:ind Who is the Voyager project manager ?
+2466 HUM:gr Which radio stations air the Jim Bohannon Radio Talk Show ?
+2467 HUM:ind What two commanders directed the forces in the Battle of El Alamein ?
+2468 HUM:ind Name the creator of `` The Muppets '' .
+2470 HUM:ind Who replies `` I know '' to Princess Leia 's confession `` I love you '' in The Empire Strikes Back ?
+2474 HUM:gr What is the name of the firm that makes Spumante ?
+2476 HUM:ind Who won the 1967 Academy Award for Best Actor ?
+2478 HUM:ind Name the first private citizen to fly in space .
+2479 HUM:ind What was football star Elroy Hirsch 's nickname ?
+2480 HUM:ind What singer sings `` Oh Boy '' ?
+2483 HUM:gr What army 's motto is Blood and Fire ?
+2494 HUM:ind What count did Alexandre Dumas write about ?
+2510 HUM:ind Who was the first Taiwanese President ?
+2511 HUM:ind Who is Luke Skywalker 's father ?
+2516 HUM:gr What is the first personal computer company ?
+2518 HUM:desc Who was Jane Goodall ?
+2524 HUM:ind Who created the comic strip , `` Garfield '' ?
+2525 HUM:ind Which Vietnamese terrorist is now a UN delegate in Doonesbury ?
+2530 HUM:ind Who is the current prime minister and president of Russia ?
+2531 HUM:ind Who established a Viking colony in Greenland about 985 ?
+2540 HUM:ind Who shot and killed himself while painting Wheatfield with Crows ?
+2543 HUM:ind What future President became Senate majority whip under Harry Truman ?
+2544 HUM:ind Who was the architect of Central Park ?
+2551 HUM:ind What was the Christian name of the title character in Our Miss Brooks ?
+2552 HUM:ind What hard-of hearing artist painted Sunflowers ?
+2553 HUM:gr Who were the Yankee 's frequent enemies ?
+2554 HUM:ind Who wrote Sons and Lovers ?
+2560 HUM:ind What Cherokee Indian gave his name to a tree ?
+2563 HUM:ind Who was the star of Leave It to Beaver ?
+2565 HUM:ind What was William F. Cody 's better-known name ?
+2567 HUM:ind Who did Richard Nixon tender his resignation to ?
+2568 HUM:desc Who was Thucydides ?
+2570 HUM:ind Which of the following rock 'n roll stars has a `` star '' on Hollywood Boulevard ?
+2585 HUM:ind Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?
+2588 HUM:ind What Nazi leader killed himself in jail just before he was to be executed as a war criminal ?
+2590 HUM:gr Which company claimed to be `` the world 's biggest toy store '' ?
+2599 HUM:ind Who is the fastest guitarist ?
+2607 HUM:ind Who betrayed Norway to the Nazis ?
+2608 HUM:ind Who took the toys donated for the Doodyville Orphans ' Fund and kept them for himself ?
+2611 HUM:ind Who were the Picts ?
+2614 HUM:ind Who is stationed at Camp Swampy in the comic strips ?
+2618 HUM:ind What actor dressed up as Santa Claus and had a once-a-year affair with actress Shelley Winters every Christmas for many years ?
+2631 HUM:ind Who wrote The Look of Love after viewing Ursula Andress ?
+2632 HUM:ind What is the name of the American swimmer who won seven gold medals in the 1972 Olympics ?
+2633 HUM:ind Who claims to have the greatest show on earth ?
+2635 HUM:ind What Honeymooners actress did Television magazine name as 1953 's most promising star ?
+2641 HUM:gr What kind of organization is ` Last Chance for Animals ' ?
+2642 HUM:ind What was the role of the Medieval Guild ?
+2643 HUM:ind Silly putty was invented by whom ?
+2646 HUM:ind Who invented the paper clip ?
+2647 HUM:ind Whom did Lauren Bacall marry after her husband Humphrey Bogart died ?
+2655 HUM:ind What composer was awarded the Medal of Honor by Franklin D. Roosevelt ?
+2659 HUM:ind Who created the Fantastic Four , Hulk , and Thor ?
+2661 HUM:ind Who is the composer of `` Canon in D Major '' ?
+2664 HUM:ind Who was the author of the novel `` Far From the Madding Crowd '' ?
+2669 HUM:ind What department store heir is responsible for raising a three-ton safe from the underwater wreckage of the Andrea Doria ?
+2678 HUM:ind Who was Camp David named for ?
+2680 HUM:ind Who portrayed `` the man without a face '' in the movie of the same name ?
+2693 HUM:ind Who won the first World Series ?
+2695 HUM:desc Who is Samuel Pickering ?
+2696 HUM:gr What was the business of the animated Sky Hawks ?
+2697 HUM:ind Who was credited with saying : `` I never met a man I did n't like '' ?
+2711 HUM:gr What organization has a Security Council ?
+2713 HUM:ind What Mexican leader was shot dead in 1923 ?
+2722 HUM:ind What female painter produced primitives of rural New England life ?
+2723 HUM:ind What are names of two old men who appear in the serial tv Muppets Show ?
+2728 HUM:ind Who created Big Ben ?
+2731 HUM:gr Name the Marvel team loosely based on DC 's Justice League of America ?
+2734 HUM:gr What college football team did Knute Rockne build into a power ?
+2738 HUM:gr In what high-risk business venture did Jimmy the Greek bet and lose ?
+2745 HUM:ind What fruit-topped actress was known as The Brazilian Bombshell ?
+2747 HUM:gr When the Tutankhamun exhibit was on display in the U.S. , what moving company transported it ?
+2749 HUM:ind Who played the title role in My Favorite Martian ?
+2752 HUM:ind Who invented the game Scrabble ?
+2762 HUM:ind When Mighty Mouse was conceived , what was his original name ?
+2764 HUM:gr What group starred in the movie Rock Around the Clock ?
+2767 HUM:ind What is Nathan Hamill 's role in the new Star Wars prequel ?
+2779 HUM:ind What New York Yankee was known as The Iron Horse ?
+2780 HUM:ind Who is considered The First Lady of the American Stage ?
+2781 HUM:ind Who penned : `` Neither a borrower nor a lender be '' ?
+2785 HUM:ind Who headed Hitler 's infamous Gestapo ?
+2790 HUM:ind What is a person called that likes fire ?
+2793 HUM:gr Name a South African diamond producer ?
+2794 HUM:ind Who made the musical plea Be True to Your School ?
+2795 HUM:ind What French designer declared : `` The jean is the destructor ! It is a dictator ! It is destroying creativity. The jean must be stopped ! '' ?
+2797 HUM:gr Name a band which was famous in the 1960 's .
+2798 HUM:ind What comedian was banned from the Ed Sullivan Show for allegedly making an obscene gesture at the show 's host ?
+2800 HUM:ind What Apollo 11 astronaut minded the store while Armstrong and Aldrin made history ?
+2803 HUM:ind What Good Little Witch is Casper 's girlfriend ?
+2805 HUM:ind What was the nickname of Frederick I , Holy Roman Emperor and King of Germany ?
+2819 HUM:ind Who made Stonehenge ?
+2822 HUM:ind Who 's the founder and editor of The National Review ?
+2824 HUM:ind Who was the first governor of West Virginia ?
+2828 HUM:ind What famous soldier was born in Europe , died in Asia , and was laid to rest in Africa ?
+2830 HUM:gr What culture developed the idea of potlatch ?
+2831 HUM:gr What baseball team became the Minnesota Twins ?
+2843 HUM:ind What is Michael Jackson 's middle name ?
+2844 HUM:ind Who was the first woman to fly solo across the Atlantic ?
+2854 HUM:ind Who started the Dominos Pizza chain ?
+2859 HUM:ind Which NBA players had jersey number 0 ?
+2860 HUM:gr What chocolate company gives you a one-pound kiss ?
+2869 HUM:ind Who is the famous movie star who also acted as sewer commissioner of Provo Canyon , Utah ?
+2873 HUM:ind Name Randy Craft 's lawyer .
+2875 HUM:gr What is the best distance education university or college ?
+2884 HUM:ind What is a person called that likes fire ?
+2885 HUM:ind Who portrayed Vincent Van Gogh in Lust for Life ?
+2893 HUM:ind Who was known as the Time Master in comic books ?
+2899 HUM:ind Who is the father of the computer ?
+2907 HUM:ind Who said : `` Old soldiers never die ; they just fade away '' ?
+2908 HUM:gr What National League baseball team employed 72 third baseemen in its first 2 seasons ?
+2912 HUM:ind Who 's the only man to have won the Olympic decathlon twice ?
+2916 HUM:ind What is the name of Miss India 1994 ?
+2921 HUM:ind Who was the second man to walk on the moon ?
+2922 HUM:ind What major Victorian novelist spent as much time working for the post office as he did writing ?
+2924 HUM:gr The major league baseball team in Pittsburgh is called what ?
+2933 HUM:ind Who is the Pope ?
+2943 HUM:ind What 's the most common surname in America ?
+2955 HUM:desc Who is Imam Hussain Ben Ali whom Shia people believe in ?
+2965 HUM:desc Who was William Henry Harrison ?
+2979 HUM:ind Who was the first black performer to have his own network TV show ?
+2991 HUM:gr What company uses the unfamiliar faces of its celebrity spokespeople to promote the use of its product ?
+3008 HUM:ind Who directed The Wild Bunch ?
+3012 HUM:ind What comedian was born Allen Stewart Konigsberg ?
+3018 HUM:ind What poet wrote : `` ... I have promises to keep , and miles to go before I sleep '' ?
+3028 HUM:ind Who runs Andy Capp 's favorite pub ?
+3038 HUM:ind What author of the Days of Our Lives Cookbook signed on in 198 as Liz Chandler in TV 's Days of Our Lives ?
+3040 HUM:ind What President was assassinated by Charles J. Guiteau ?
+3041 HUM:ind What comic of TV 's golden age went by the motto `` Anything for a laugh '' ?
+3044 HUM:ind Who invented the game bowling ?
+3048 HUM:gr What group kidnaped Patricia Hearst ?
+3054 HUM:ind Who is the creator of `` The Muppets '' ?
+3055 HUM:ind Which of the following celebrities started his show-biz career as a disc jockey ?
+3060 HUM:ind Who asked you to do the Loco-Motion with her in 1962 ?
+3062 HUM:ind What President served for five years , six months and 2 days ?
+3069 HUM:ind What is Drew Barrymore 's middle name ?
+3072 HUM:ind What is Supergirl 's secret identity ?
+3074 HUM:gr What court does Bob Woodward describe in The Brethren ?
+3075 HUM:ind Who made the first surfboard ?
+3076 HUM:ind What is the name of the police officer who tried to keep order in Top Cat 's neighborhood ?
+3084 HUM:ind Who is the Greek God of the Sea ?
+3085 HUM:ind What well-known music personality is the father of an adopted son named Hans Christian Henderson ?
+3091 HUM:ind Who was the first woman governor of Wyoming ?
+3093 HUM:ind What Green Bay Packers coach philosophized : `` There 's nothing that stokes the fire like hate '' ?
+3105 HUM:ind What famous comedian recently tried without success to revive the play ?
+3113 HUM:ind What TV family sometimes buys eclairs from Nelson 's Bakery ?
+3116 HUM:ind What enigmatic U.S. vice president was once tried and acquitted for treason in a plot to set up his own independent empire in the West ?
+3117 HUM:ind Who was Charles Lindbergh 's wife ?
+3118 HUM:ind Who sings Angel Eyes from the 80 's ?
+3123 HUM:desc What information can you tell me about actor James Cromwell ?
+3134 HUM:ind What dumb-but-loveable character did Maurice Gosfield play on The Phil Silvers Show ?
+3137 HUM:gr What was called the world 's largest department store ?
+3144 HUM:ind What was the nickname of German flying ace Manfred von Richthofen ?
+3160 HUM:ind Who wrote ` Hamlet ' ?
+3169 HUM:ind What pseudonym did William Sydney Porter use in writing The Gift of the Magi ?
+3172 HUM:ind What is the last name of Lucy and Linus from the Peanut 's comic strip ?
+3173 HUM:ind What cheery fellow got the ZIP code 9971 from the U.S. Postal Service in 1963 ?
+3175 HUM:gr Name Pittsburgh 's baseball team .
+3185 HUM:ind Who was the Russian ambassador to Hungary during the 1956 uprising ?
+3186 HUM:ind Who holds the NFL record for most touchdowns in a season ?
+3194 HUM:desc Who is Shirley MacLaine ?
+3195 HUM:gr What business exports the sparkling wine Spumante ?
+3199 HUM:ind Who wrote ` The Pines of Rome ' ?
+3201 HUM:gr What was the first U.S.-based team in the NHL ?
+3203 HUM:ind Who played for the Chicago Bears , Houston Oilers and Oakland Raiders in a 26-year pro football career ?
+3210 HUM:ind Who leads the star ship Enterprise in Star Trek ?
+3212 HUM:ind Who won World War II ?
+3218 HUM:ind Who was Garrett Morgan married to ?
+3219 HUM:ind What was the name of Darth Vader 's son ?
+3222 HUM:desc Who is Ishmael in Moby Dick ?
+3231 HUM:ind Name the two blob members of the animated Herculoids .
+3242 HUM:ind What well-known TV talk show host was a lay preacher by the time he was seventeen ?
+3244 HUM:ind What one of the Backstreet Boys are single ?
+3247 HUM:ind What Civil War general wreaked havoc on the south by marching through Georgia on his way to the sea ?
+3248 HUM:ind Who was the conservationist who served as spokesperson for Post Grape Nuts ?
+3255 HUM:ind What suburban housewife and mother of three wrote The Feminine Mystique ?
+3260 HUM:desc Who was Whitcomb Judson ?
+3265 HUM:ind Name a canine cartoon character other than Huckleberry Hound to have a voice by Daws Butler .
+3277 HUM:ind Who shoplifts ?
+3301 HUM:ind Which two inventors invented Post-its ?
+3303 HUM:ind Whose image is alleged to be on The Shroud of Turin ?
+3305 HUM:ind What U.S. general was court-martialled for criticizing American air power ?
+3308 HUM:ind Who said : `` The victor will never be asked if he told the truth '' ?
+3315 HUM:desc Who is Langston Hughes ?
+3319 HUM:ind Saddam Hussein was compared to whom by President Bush ?
+3322 HUM:ind Who wrote the book , `` The Grinch Who Stole Christmas '' ?
+3324 HUM:ind What jockey won 17 Triple Crown races ?
+3328 HUM:ind Who seized power from Milton Obote in 1971 ?
+3337 HUM:ind What well-known actor is the father of star Alan Alda ?
+3347 HUM:ind What little boy and dog live in a shoe ?
+3352 HUM:ind What was Marilyn Monroe 's real name ?
+3356 HUM:ind What father and son won the Medal of Honor ?
+3358 HUM:gr Which high schools are included in the South Florida Ice Hockey league ?
+3360 HUM:ind Who is the Prophet of Medina ?
+3364 HUM:ind What is the name of the woman who was with John Belushi when he died ?
+3379 HUM:ind Whose funeral train traveled from Washington D.C. to Springfield , Illinois ?
+3381 HUM:ind What 's the better-known identity of John Merrick , the noble ogre of Victorian England ?
+3382 HUM:ind What is her husband 's name ?
+3383 HUM:gr What cigarette company urged us , `` Come to where the flavor is ? ''
+3384 HUM:ind Which of the following did not receive a 1983 `` Outstanding Mother Award '' from the National Mother 's Day Committee ?
+3385 HUM:ind What Dynasty star made her 2th Century-Fox debut in The Virgin Queen ?
+3387 HUM:ind What actress holds the record for the most appearances on the cover of Life ?
+3389 HUM:gr Name the company that used the line , `` Even your best friend won 't tell you '' in its ad ?
+3393 HUM:ind What U.S. President had brothers-in-law in the Confederate army ?
+3394 HUM:ind Who is the Queen of Holland ?
+3397 HUM:ind What actor learned to play the saxophone and speak Russian for a role in a movie ?
+3398 HUM:ind Who says , `` If you don 't look good , we don 't look good '' ?
+3399 HUM:ind Who was Secretary of State during the Nixon administration ?
+3407 HUM:desc Who is Johnny Carson ?
+3411 HUM:ind What attorneys work for The Center for the Defense of Free Enterprise ?
+3420 HUM:gr What U.S. university boasts the largest library ?
+3427 HUM:ind Which classical Spanish writer said `` All that glitters is not gold '' ?
+3434 HUM:gr Which organization is the Security Council a part of ?
+3437 HUM:ind Who painted `` Soft Self-Portrait with Grilled Bacon '' ?
+3438 HUM:gr What company markets a shampoo `` for brunettes only '' ?
+3441 HUM:ind Who killed Caesar ?
+3455 HUM:desc Who is Count Cinzano ?
+3456 HUM:ind Who 's won the most Oscars for costume design ?
+3466 HUM:ind What U.S. vice-president once declared : `` If you 've seen one slum , you 've seen them all '' ?
+3467 HUM:ind Who wrote The Red Badge of Courage ?
+3474 HUM:ind What British monarch 's lap did P.T. Barnum 's Tom Thumb sit in ?
+3476 HUM:ind Who invented the road traffic cone ?
+3477 HUM:gr What is the name of Joan Jett 's band ?
+3478 HUM:ind Which of the following people is not associated with Andy Warhol ?
+3480 HUM:gr What civilization invented the arch ?
+3482 HUM:gr What is an example of a famous rock band from the sixties ?
+3485 HUM:ind What president 's ghost is said to haunt the White House ?
+3486 HUM:ind What are the names of Jack 's original roommates on Three 's Company ?
+3490 HUM:ind Who won the Battle of Gettysburg ?
+3492 HUM:ind Name the two youngsters saved by the animated Moby Dick .
+3493 HUM:ind Who was the captain of the tanker , Exxon Valdez , involved in the oil spill in Prince William Sound , Alaska , 1989 ?
+3497 HUM:desc Who is Stephen Hawking ?
+3503 HUM:ind The name of the actor who played the detective in the film Kindergarden Cop is what ?
+3508 HUM:ind What actor came to dinner in Guess Who 's Coming to Dinner ?
+3514 HUM:ind What engineer invented the pull-tab can ?
+3521 HUM:gr Which college did Dikembe Mutombo attend ?
+3522 HUM:ind Who was the first actress to appear on a postage stamp ?
+3523 HUM:ind Who was the first black woman to star in the Folies Bergeres ?
+3539 HUM:ind What bottled-up TV character was born in Baghdad ?
+3560 HUM:ind Who asked the musical question : `` Have you ever been to electric lady land ? ''
+3561 HUM:ind Who wrote : `` Poems are made by fools like me but only God can make a tree '' ?
+3565 HUM:ind Who played the part of the Godfather in the movie , ` The Godfather ' ?
+3567 HUM:ind Who invented the Wonderbra ?
+3575 HUM:ind Who owns the St. Louis Rams ?
+3594 HUM:ind What Texas surgeon performed the first artificial heart transplant ?
+3602 HUM:ind Who made the most appearances in the center square on Hollywood Squares ?
+3606 HUM:gr What store claims to be the world 's largest department store ?
+3609 HUM:ind What `` marvelous '' major-league baseball player is now a spokesman for a beer company ?
+3615 HUM:ind Who said `` the only thing we have to fear is fear itself '' ?
+3630 HUM:ind Who is the sexiest women in the world ?
+3633 HUM:ind Who was the supreme god of Germanic religion ?
+3635 HUM:ind Who 's played the most games for the New York Yankees ?
+3636 HUM:ind What TV character said ; `` One of these days , Alice , pow , right in the kisser '' ?
+3637 HUM:ind What is the name of the Indian who became prime minister by beating Mrs. Gandhi in the 1977 election ?
+3639 HUM:ind What Chilean president was killed in a 1973 coup d 'etat ?
+3641 HUM:ind Name the first Russian astronaut to do a spacewalk .
+3644 HUM:ind What are the first names of the famous husband-and-wife acting team of Lunt and Fontanne ?
+3653 HUM:gr What cable network bills itself as `` the family entertainer '' ?
+3668 HUM:ind What President was meant for , but never placed in , the empty crypt beneath the capital 's rotunda ?
+3671 HUM:ind Who won the Superbowl in ?
+3676 HUM:ind What Hungarian cardinal was first a state prisoner and then a refugee in the U.S. embassy 1956-1971 ?
+3686 HUM:ind Who directed Citizen Kane ?
+3689 HUM:ind What is the nickname of the famous flyer who mistakenly flew to Ireland instead of to Los Angeles ?
+3692 HUM:ind Whose special bear 's creator was born on January 18 , 1779 ?
+3693 HUM:gr What high school does Archie attend ?
+3698 HUM:gr What television network flogged its sports programming on Inga Nielsen 's body in 197 ?
+3702 HUM:ind What Italian leader had a lifelong fear of the evil eye ?
+3704 HUM:ind Who said : `` What contemptible scoundrel stole the cork from my lunch ? ''
+3709 HUM:ind What president kissed the Queen Mother on the lips ?
+3715 HUM:ind What was Al Capone 's nickname ?
+3716 HUM:ind Who was the author of the famous fairy tale `` Snow White and Seven Dwarfs '' ?
+3733 HUM:ind Who is behind the name of the Harvey Wallbanger drink ?
+3745 HUM:gr What South African producer had a 1988 profit of $836 million ?
+3746 HUM:ind What American actress was the first to be called a `` vamp '' ?
+3770 HUM:gr What card company sells Christmas ornaments ?
+3774 HUM:ind Who is the premier of China ?
+3775 HUM:ind What cigar-chewing comedian observed : `` You 're only as old as the woman you feel '' ?
+3777 HUM:gr What bread company used to feature stickers of the Cisco Kid on the ends of their packages ?
+3778 HUM:ind Who was the president of Vichy France ?
+3779 HUM:ind Whose kidnaping was termed The Crime of the Century ?
+3781 HUM:gr What group asked the musical question Do You Believe in Magic ?
+3783 HUM:ind What buxom blonde appeared on the cover of more than 5 magazines ?
+3791 HUM:ind Who first broke the sound barrier ?
+3799 HUM:ind What role do fruits play in the survival of plants ?
+3808 HUM:ind What Pulitzer Prize-winning novelist ran for mayor of New York City ?
+3818 HUM:ind Who was Scrooge 's dead partner in Dickens 's A Christmas Carol ?
+3823 HUM:ind Who recorded the 1957 hit Tammy ?
+3827 HUM:ind Who is Mia Farrow 's mother ?
+3834 HUM:ind What baseball player was walked the most times ?
+3835 HUM:ind What famous male vocalist has the same name as the composer of the opera Hansel and Gretel ?
+3840 HUM:ind Who was the only president to serve two nonconsecutive terms ?
+3842 HUM:ind What labor leader was last seen in the parking lot of a Michigan restaurant ?
+3845 HUM:ind Who reports the weather on the `` Good Morning America '' television show ?
+3847 HUM:ind What was the name of `` The Muppets '' creator ?
+3851 HUM:ind Who sent the brief message `` I came , I saw , I conquered '' ?
+3853 HUM:ind What U.S. Air Force general led the first bombing raid over Tokyo ?
+3854 HUM:ind What U.S. vice-president said : `` Some newspapers dispose of their garbage by printing it '' ?
+3855 HUM:ind What was the name of the first Watergate special prosecutor , later fired by Nixon ?
+3858 HUM:gr What 's the supreme policy-making bureau of the Soviet Communist Party ?
+3865 HUM:gr Who are the nomadic hunting and gathering tribe of the Kalahari Desert in Africa ?
+3866 HUM:ind Who won a Pulitzer Prize for his novel The Caine Mutiny ?
+3870 HUM:ind Who portrayed Sherlock Holmes in 14 films between 1939 and 1946 ?
+3878 HUM:ind What is the name of the pop singer whose song became the theme song for a brand of catsup ?
+3880 HUM:ind Who claimed to be the world 's most perfectly-developed man ?
+3886 HUM:gr What kind of people took part in Shays ' Rebellion in Massachusetts in 1787 ?
+3894 HUM:ind What American won the world Grand Prix driving championship in 1978 ?
+3900 HUM:ind Name a female figure skater .
+3915 HUM:ind Who portrayed Carl Bernstein in All the President 's Men ?
+3917 HUM:ind Who was Tiny Tim 's father ?
+3919 HUM:ind Who was Bonnie Blue Butler 's father ?
+3923 HUM:ind Who is the Antichrist ?
+3929 HUM:ind Who was the lawyer who represented Randy Steven Craft ?
+3934 HUM:ind Which of the following celebrities was not born in Philadelphia ?
+3941 HUM:ind Who wrote the Farmer 's Almanac ?
+3944 HUM:gr Which team won the Super Bowl in 1968 ?
+3947 HUM:ind CNN is owned by whom ?
+3951 HUM:ind Who was the 15th century fire-and-brimstone monk who gained control of Florence but ended burnt at the stake ?
+3954 HUM:desc Who was Quetzalcoatl ?
+3956 HUM:ind What French leader sold Louisiana to the United States ?
+3962 HUM:ind Who is the prime minister of Japan ?
+3963 HUM:ind What player squats an average of 3 times during a baseball doubleheader ?
+3964 HUM:ind What 's the most common name in nursery rhymes ?
+3967 HUM:ind Who wrote the book , `` Song of Solomon '' ?
+3969 HUM:ind Name the Ranger who was always after Yogi Bear .
+3971 HUM:ind Who is the president of the Spanish government ?
+3972 HUM:ind Who holds the career record for the most major league home runs ?
+3973 HUM:ind Which of the following actors worked in New York 's Yiddish Theater ?
+3974 HUM:ind Who invented the stethoscope ?
+3979 HUM:ind What comedian hit the TV screen in 1951 with the NBC afternoon show Time for Ernie ?
+3983 HUM:ind What are Arnold Palmer 's fans called ?
+3984 HUM:ind Who retired with 755 home runs to his credit ?
+3986 HUM:ind Who developed potlatch ?
+3989 HUM:gr What group included Abbey Hoffman , Jerry Rubin , and Tom Hayden ?
+3993 HUM:ind Name the two actress daughters of John Mills .
+3997 HUM:ind Who is the actress Bette Davis once said she wished she looked like ?
+3998 HUM:ind Who portrayed The Cowardly Lion in The Wizard of Oz ?
+4002 HUM:ind Who was the first king of England ?
+4006 HUM:ind Who killed Kurt Cobain ?
+4007 HUM:ind Who created the monster in Mary Shelley 's novel Frankenstein ?
+4015 HUM:ind What son of a 15-year-old Mexican girl and a half-Irish father became the world 's most famous Greek ?
+4016 HUM:ind Who was the first man to return to space ?
+4018 HUM:ind Who gave Abbie Hoffman his first dose of LSD ?
+4020 HUM:title What did the Seven Dwarfs do for a living ?
+4021 HUM:ind What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?
+4022 HUM:ind Who shot Billy the Kid ?
+4024 HUM:ind What Mormon leader was said to have had 27 wives ?
+4031 HUM:ind With whom did Bush compare Saddam Hussein ?
+4034 HUM:ind What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?
+4036 HUM:ind What is the name of the brilliant British economist behind its creation ?
+4037 HUM:ind Who played Sally Rogers on The Dick Van Dyke Show ?
+4039 HUM:ind What mythical figure carries an hourglass and a scythe ?
+4043 HUM:gr What presidential administration challenged Americans to explore The New Frontier ?
+4052 HUM:ind What famous British actor lost his voice after an operation in 1966 ?
+4054 HUM:gr What company makes impulse hardening equipment ?
+4058 HUM:ind What is Rona Barrett 's married name ?
+4061 HUM:ind Who is the mathematician that won the Noble Prize for Literature in 1950 ?
+4062 HUM:ind Which glamorous actress is a close friend of Dick Tracy ?
+4064 HUM:gr Name the three races unleashed by the Celestials in Marvel comics .
+4066 HUM:ind What President hit the jogging paths to enhance his athletic image and , sporting No. 39 , almost collapsed during the road race ?
+4071 HUM:ind What writer-journalist made his mark describing colorful Broadway and underworld characters ?
+4073 HUM:gr What are the residents of the island of Lesbos called ?
+4076 HUM:ind What baseball great plugged Mr. Coffee ?
+4079 HUM:ind Who 's baby was Sweet Pea on the Popeye cartoon ?
+4086 HUM:ind What English physician was born on January 18 , 1779 and went on to create two important inventions ?
+4087 HUM:ind Who did Arthur H. Bremer try to assassinate on May 15 , 1972 ?
+4089 HUM:ind What apostle is Taylor Caldwell 's Great Lion of God ?
+4096 HUM:gr What company sells the most greeting cards ?
+4099 HUM:ind What 's comic strip photographer Peter Parker 's secret identity ?
+4114 HUM:ind Which Rockefeller was sometimes called `` JDR3 '' ?
+4118 HUM:ind Whom did Friz Freleng add to the Warner Bros. cartoon ranks ?
+4123 HUM:ind Who was Shakespeare 's Moorish general ?
+4129 HUM:ind Who taught Matt Murdock to use his extraordinary abilities in Marvel comics ?
+4132 HUM:ind What famous film and TV cowboy lent his name to a fast food chain ?
+4136 HUM:ind Who famously rode to warn the people of Massachusetts that the British were coming ?
+4140 HUM:ind Who commanded the French forces at the Battle of Orleans ?
+4149 HUM:ind Who led the opposition when Konrad Adenauer was Chancellor in Germany ?
+4157 HUM:ind Who turned all he touched to gold ?
+4159 HUM:ind Who plays shortstop for Charlie Brown 's baseball team ?
+4161 HUM:ind Who was the most famous food editor of The New York Times ?
+4166 HUM:ind Who was the last U.S. president to reinstate Selective Service registration ?
+4168 HUM:ind What was the name of the lawyer who represented Randy Steven Craft ?
+4171 HUM:ind What actress 's autobiography is titled Shelley : Also Known as Shirley ?
+4174 HUM:ind Who lived on the shores of the Gitchee Gumee River ?
+4179 HUM:ind Who is section manager for guidance and control systems at JPL ?
+4180 HUM:ind What is Goldfinger 's first name ?
+4182 HUM:ind Which of the following famous people does not paint as a hobby ?
+4194 HUM:ind Who should I call to get a tour of the New York Stock Exchange ?
+4196 HUM:ind What U.S. general died December 1 , 1945 , when his jeep collided with a truck ?
+4202 HUM:ind What was the name of the director of the movie `` Jaws '' ?
+4208 HUM:ind Who portrayed W.C. Fields in the film W.C. Fields and Me ?
+4210 HUM:gr Which college did Dikembe Mutombo play basketball at ?
+4218 HUM:ind Who built the first successful stern wheel steamboat ?
+4220 HUM:ind Who was Hitler 's minister of propaganda ?
+4221 HUM:ind Who was the first doctor to successfully transplant a liver ?
+4236 HUM:ind Who was the lawyer for Randy Steven Craft ?
+4238 HUM:ind Who is reputed to be the greatest maker of violins ?
+4240 HUM:ind What future Soviet dictator was training to be a priest when he got turned on to Marxism ?
+4246 HUM:ind Who sued the Dannon yougurt company for using a character named Ron Raider for promotion ?
+4247 HUM:ind Who was the first jockey to ride two Triple Crown winners ?
+4249 HUM:ind Who wrote Brave New World ?
+4253 HUM:ind Who wrote Unsafe at Any Speed ?
+4260 HUM:ind What British commander surrendered to George Washington at Yorktown in 1781 ?
+4262 HUM:ind Who created the World Wide Web , WWW ?
+4264 HUM:ind What is the name of the president of Garmat U.S.A ?
+4266 HUM:ind Who were leaders of the Byzantine empire ?
+4267 HUM:ind Who was the first President to appoint a woman to head a cabinet ?
+4270 HUM:gr Who built the first pyramid ?
+4275 HUM:gr Name a French fascist party .
+4284 HUM:gr What famous meat company went out of business because it became known that the underworld had been selling them kangaroo meat ?
+4302 HUM:ind What is the present Pope named ?
+4303 HUM:ind Who is the nebbish that is Marvel 's official mascot ?
+4308 HUM:ind Who sang the song `` Hooked on a Feeling '' in the dancing baby episode of `` Ally Mcbeal '' ?
+4313 HUM:ind Who was the Columbia Pictures head who forged actor Cliff Robertson 's name on a $1 , 000 check ?
+4314 HUM:desc Who was Damocles ?
+4316 HUM:ind Name Dondi 's adoptive grandfather .
+4323 HUM:ind Whose biography by Maurice Zolotow is titled Shooting Star ?
+4325 HUM:ind In the movie Groundshog Day what is the name of the character played by Andie MacDowell ?
+4328 HUM:gr What are the top ten all-time money making NFL teams ?
+4338 HUM:gr What college enlivens Hanover , New Hampshire ?
+4342 HUM:ind Who was the first American citizen awarded the Albert Medal of the Society of Arts ?
+4343 HUM:ind What doctor is synonymous with footwear and foot care ?
+4346 HUM:ind Who founded the Unification Church ?
+4349 HUM:title What are the only players eligible to score points in Roller Derby called ?
+4351 HUM:ind What ill-fated American general dragged a bull terrier named Willie through World War II ?
+4354 HUM:ind Who invented the lawnmower ?
+4357 HUM:ind What U.S. senator once played basketball for the New York Knicks ?
+4361 HUM:ind What is Li 'l Abner 's last name ?
+4369 HUM:ind What architect originated the glass house designed the Chicago Federal Center had a philosophy of `` less is more , '' and produced plans that were the forerunner of the California ranch house ?
+4381 HUM:ind Who shared a New York City apartment with Roger Maris the year he hit 61 home runs ?
+4389 HUM:ind Who is the director of intergovernmental affairs for the San Diego county ?
+4390 HUM:ind What Hall of Fame pitcher started three World Series Games for the New York Yankees in 1962 ?
+4397 HUM:gr What political party is Sinn Fein a part of ?
+4399 HUM:ind What is the name of a Greek god ?
+4403 HUM:ind What was the man 's name who was killed in a duel with Aaron Burr ?
+4407 HUM:ind Who directed the first Woody Woodpecker cartoon ?
+4411 HUM:ind What two historical figures , who fought each other in a famous battle , each have a food named after them ?
+4426 HUM:ind Name of heroine in `` Scruples '' ?
+4428 HUM:ind What TV character sired a horse named Thunder ?
+4431 HUM:ind What baseball player was known as Charley Hustle ?
+4432 HUM:ind Who killed Lee Harvey Oswald ?
+4434 HUM:desc Who was Red Grange ?
+4435 HUM:gr What hockey team did Wayne Gretzky play for ?
+4437 HUM:gr What Ivy League school plays its home games at Palmer Stadium ?
+4438 HUM:ind Who invented the fax machine ?
+4442 HUM:ind Who wrote the poem that starts `` I love your lips when they 're wet with wine and red with a warm desire '' ?
+4443 HUM:ind What singer 's theme song was When the Moon Comes over the Mountain ?
+4445 HUM:desc Who was Santos-Dumont ?
+4449 HUM:ind Who is Rocky 's and Bullwinkle 's ever-lost friend ?
+4450 HUM:desc Who is Robin Williams ?
+4451 HUM:ind Who thought he 'd never see a poem lovely as a tree ?
+4452 HUM:ind Who created `` The Muppets '' ?
+4456 HUM:gr What was the Ventura County police department that seized the county 's largest amount of cocaine ever ?
+4460 HUM:ind Name one of the major gods of Hinduism .
+4465 HUM:ind What two US biochemists won the Nobel Prize in medicine in 1992 ?
+4466 HUM:gr What record company was formed by Herb Alpert and Jerry Moss ?
+4470 HUM:gr What fast-food magnate 's initials graced the left sleeve of the San Diego Padres ' baseball uniforms in 1984 ?
+4485 HUM:ind Who else was considered for the role of Luke Skywalker when George Lucas was casting for Star Wars ?
+4494 HUM:ind Who was the king who signed the Magna Carta ?
+4502 HUM:ind Who is the leader of India ?
+4503 HUM:ind Who is the prophet that is most connected to the Dead Sea ?
+4510 HUM:ind Who wrote `` The Pit and the Pendulum '' ?
+4515 HUM:gr What is the best art and design school in the world ?
+4517 HUM:ind Who is the Incredible Hulk in reality ?
+4521 HUM:gr What manufacturers are there in Texas ?
+4522 HUM:ind Who are the presidents of Mexico and Indonesia ?
+4523 HUM:ind Who played Al Jolson in the Jolson Story ?
+4531 HUM:ind What TV detective did Craig Stevens play ?
+4534 HUM:gr What university fired Angela Davis ?
+4536 HUM:ind In the past 8 years who have the MVP players for the NHL been ?
+4538 HUM:ind Who played Emperor Palpatine in Star Wars ?
+4547 HUM:ind Whose husbands have included Conrad Hilton Jr. , and Michael Wilding ?
+4549 HUM:ind Who is King in Alley Oop 's home of Moo ?
+4551 HUM:gr What is `` the airline built for professional travelers '' ?
+4561 HUM:ind Who invented the stock ticker in 1870 ?
+4566 HUM:ind Who wrote the Bible ?
+4569 HUM:desc Who is Henry Butler ?
+4571 HUM:ind Which U.S. President is buried in Washington , D.C. ?
+4574 HUM:gr What college did Dikembe Mutombo play basketball for ?
+4586 HUM:gr Who made the first airplane ?
+4593 HUM:ind The lawyer who represented Randy Craft , what was his name ?
+4595 HUM:gr What organization is the Security Council a part of ?
+4602 HUM:ind Who was the first black to be head coach of a major league pro sports team ?
+4603 HUM:desc Who is John Macarthur , 1767-1834 ?
+4608 HUM:desc Who is Peter Weir ?
+4614 HUM:ind What robust U.S. President imported his own instructor after seeing a judo match ?
+4620 HUM:gr What government department did The Untouchables work for ?
+4624 HUM:ind What was the player 's name who played nose tackle for the Eagles in Super Bowl XV ?
+4626 HUM:ind Who held the endurance record for women pilots in 1929 ?
+4627 HUM:title What did Andy Hardy 's father do for a living ?
+4631 HUM:ind Who are Woody Woodpecker 's niece and nephew ?
+4633 HUM:ind Who created Maudie Frickett ?
+4636 HUM:ind Who was the first English circumnavigator of the globe ?
+4639 HUM:gr Who made the largest cocaine seizure in Ventura County history ?
+4641 HUM:ind Who liberated 19th century Sicily and Naples ?
+4654 HUM:ind What actor has a tattoo on his right wrist reading Scotland Forever ?
+4657 HUM:ind Who appointed the chair of the Federal Reserve ?
+4665 HUM:desc Who is Samuel F. Pickering ?
+4666 HUM:ind What English queen had six fingers on one hand ?
+4678 HUM:ind What tennis player has the nickname `` Nasty '' ?
+4680 HUM:ind What non-conformist abstract painter was dubbed Jack The Dripper by Time ?
+4693 HUM:ind Who founded the modern theory of probability ?
+4696 HUM:ind Who 's The King of Swing ?
+4697 HUM:ind What bestselling modern poet was the co-founder of the famous City Lights Bookshop in San Francisco ?
+4699 HUM:ind What South Vietnamese president was assassinated by his generals in 1963 ?
+4708 HUM:ind Who won the 1968 California Democratic primary ?
+4709 HUM:ind Who spoke the only word in Mel Brooks 's Silent Movie ?
+4711 HUM:ind What was Thatcher 's first name ?
+4714 HUM:gr Name the fast food chain with the golden arches .
+4720 HUM:ind Who was the first Russian astronaut to walk in space ?
+4723 HUM:ind Who wrote ` Dubliners ' ?
+4729 HUM:ind Who is Malaysia 's 43rd prime minister ?
+4730 HUM:ind Who founded the first aerodynamics laboratory in 1912 ?
+4734 HUM:ind Who said `` Give me liberty or give me death '' ?
+4742 HUM:gr What 's Japan 's largest car manufacturer ?
+4743 HUM:ind Name of the powerful white trader in Conrad 's `` Heart of Darkness '' ?
+4761 HUM:gr Rotary engines were manufactured by which company ?
+4767 HUM:ind Who invented the pull-tab opener on cans ?
+4768 HUM:ind What is the name of the deranged super-criminal Otto Octavius uses ?
+4769 HUM:ind Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?
+4771 HUM:gr Name the tree growing company .
+4778 HUM:ind Who declared : `` I think I 'll go out and milk the elk '' ?
+4791 HUM:ind Which former Ku Klux Klan member won an elected office in the U.S. ?
+4803 HUM:ind Who was the actor who played Sam in the movie Casablanca ?
+4807 HUM:title What task does the Bouvier breed of dog perform ?
+4810 HUM:ind What New Orleans D.A. claimed : `` My staff and I solved the assassination weeks ago '' ?
+4815 HUM:ind What was the real name of writer Ross Macdonald , creator of the hero Lew Archer ?
+4825 HUM:ind Who makes chicken `` finger lickin '' good ?
+4826 HUM:ind What director portrayed the commandant of the POW camp in 1953 's Stalag 17 ?
+4827 HUM:ind What are the names of Jacques Cousteau 's two sons ?
+4830 HUM:ind Who accompanied Space Ghost on his missions ?
+4834 HUM:ind What World War II leader declared : `` The blow has been struck '' ?
+4836 HUM:ind Who was Israel 's first prime minister ?
+4843 HUM:title When not adventuring on Rann , what does Adam Strange call his profession ?
+4845 HUM:title What occupation has the highest divorce rate ?
+4849 HUM:ind What California governor said : `` Inaction may be the highest form of action '' ?
+4851 HUM:desc Who is Desmond Tutu ?
+4852 HUM:ind Who was the first person to study the stars ?
+4855 HUM:ind Who is the author of the book , `` The Iron Lady : A Biography of Margaret Thatcher '' ?
+4856 HUM:gr What are the top 10 colleges in the United States in the field of engineering ?
+4865 HUM:ind Who did Doris Day mean when she said : `` I call him Ernie because he 's certainly no Rock '' ?
+4877 HUM:ind Who is the owner of CNN ?
+4896 HUM:ind What knighted actor narrates TV 's The World at War ?
+4898 HUM:ind What football coach 's story was told in the movie Run to Daylight ?
+4899 HUM:gr What businesses in Alaska were affected by the Exxon Valdez oil spill ?
+4904 HUM:ind What was the name of Randy Craft 's lawyer ?
+4910 HUM:ind Who markets Spaghetti-o 's ?
+4916 HUM:ind Who co-starred with Julie Andrews in Mary Poppins ?
+4926 HUM:desc Who was Ezra Taft Benson ?
+4929 HUM:ind What Argentine boxer was shot dead outside a Nevada brothel in May ?
+4936 HUM:ind What is Jimmy Olsen 's full name ?
+4940 HUM:ind What famous New York City mayor wrote the hit song , `` Will You Love Me in December as You Do in May ? ''
+4945 HUM:ind Who is Pia Zadora 's millionaire husband and mentor ?
+4946 HUM:ind What U.S. President was the first to breed mules ?
+4948 HUM:ind What astronomer-architect designed the present St. Paul 's Cathedral in London ?
+4950 HUM:ind What feminist wrote Sexual Politics and Flying ?
+4951 HUM:ind Who was the first American world chess champion ?
+4953 HUM:ind Who was the last woman executed in England ?
+4956 HUM:gr What university football team did O.J. Simpson take to the Rose Bowl ?
+4959 HUM:gr What NFL team did Vince Lombardi end his coaching career with ?
+4968 HUM:desc Who is Prince Naseem Hamed ?
+4985 HUM:title What title does comedian Henry Youngman claim ?
+4987 HUM:gr Who made the first airplane that could fly ?
+4993 HUM:ind Who was International Olympic Committee chairman at the 1936 Summer Games ?
+4995 HUM:gr What company has built more than 2.5 billion little green houses since 1935 ?
+5001 HUM:ind What appointments secretary to Richard Nixon went to jail ?
+5002 HUM:ind Who released the Internet worm in the late 1980s ?
+5003 HUM:ind What is the name of the American who was captured when his plane went down over Syrian-held Lebanon ?
+5006 HUM:gr What school does Tom attend in Tom Brown 's School Days ?
+5007 HUM:ind What basketball player is credited with 23 , 924 rebounds ?
+5017 HUM:ind What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars ?
+5018 HUM:ind Who invented the fountain ?
+5021 HUM:ind What Batman character tools around on a Batcycle ?
+5026 HUM:ind Who was Sherlock Holmes 's archenemy ?
+5038 HUM:ind What 's the name of Tom Sawyer 's aunt with whom he lives ?
+5040 HUM:ind Which member of the Micronauts spent 1 years traveling the Microverse in the Marvel comics ?
+5041 HUM:ind What doctor claimed in a 1946 book : `` There is no such thing as a bad boy '' ?
+5044 HUM:ind What comedian created a punch-drunk pugilist named Cauliflower McPugg ?
+5054 HUM:desc Who is William Wordsworth ?
+5056 HUM:desc Who is Charles Lindbergh ?
+5062 HUM:ind Who is the prime minister in Norway ?
+5064 HUM:ind What actress starred in `` The Lion in Winter '' ?
+5066 HUM:ind Who won the rugby world cup in ?
+5067 HUM:title What is Nicholas Cage 's profession ?
+5072 HUM:ind Who is the famous sister of actress Olivia De Havilland ?
+5073 HUM:ind Which German president was pressured into appointing Hitler chancellor in 1933 ?
+5088 HUM:gr What businesses or agencies would do an employment verification ?
+5089 HUM:ind What famous coach said `` if you can 't beat 'em in the alley , you can 't beat 'em on the ice '' ?
+5090 HUM:ind What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians `` an example of the failure of socialism '' ?
+5092 HUM:ind Who was Darth Vader 's son ?
+5096 HUM:ind Who invented the process to make condensed milk ?
+5099 HUM:ind What actor and actress have made the most movies ?
+5101 HUM:ind Who found Hawaii ?
+5109 HUM:ind Who protects DC Comics ' realm of dreams ?
+5117 HUM:ind Who created Harry Lime ?
+5120 HUM:ind Who was President Cleveland 's wife ?
+5124 HUM:gr What company named one of its pens `` The Banana '' ?
+5130 HUM:ind Who invented the Moog Synthesizer ?
+5131 HUM:ind Who makes the `` Die Hard '' car battery ?
+5141 HUM:ind What is the name of Dolly Parton 's rarely seen husband ?
+5143 HUM:ind Whose old London come-on was : `` Buy my sweet lavender '' ?
+5145 HUM:ind Who wrote the lyrics to Porgy and Bess ?
+5159 HUM:ind What two New York Yankee pitchers swapped wives and families ?
+5179 HUM:ind Name one of King Henry VIII 's wives .
+5183 HUM:title What does Robin Williams do ?
+5192 HUM:ind Who is the French literary charcter who is chiefly famous for his enormous nose ?
+5195 HUM:ind Who killed Martin Luther King ?
+5196 HUM:ind Who owns the rights on a TV program ?
+5201 HUM:ind Who invented Astroturf ?
+5209 HUM:ind What Democratic prankster waved the train out of the station while Richard Nixon spoke from the caboose ?
+5213 HUM:ind What former African leader held his country 's boxing title for nine years ?
+5216 HUM:gr What camera company said , `` If you haven 't got the time , we 've got the camera ? ''
+5220 HUM:ind What 2th-century American poet wrote a four-volume biography of Abraham Lincoln ?
+5223 HUM:ind Who stopped making diary entries on May 31 , 1669 , because he thought he was going blind ?
+5224 HUM:ind What journalist can be found in and around Walden Puddle ?
+5229 HUM:ind What woman pitcher has struck out Ted Williams and Hank Aaron ?
+5235 HUM:ind What is the real name of the singer , Madonna ?
+5236 HUM:ind What Frenchman claimed the following ? If God did not exist , it would be necessary to invent him . ''
+5239 HUM:ind Who was the first woman in space ?
+5241 HUM:gr What professional sports league originated the college draft ?
+5243 HUM:ind Who discovered imaginary numbers ?
+5244 HUM:ind Who does the voices of the Simpsons ?
+5248 HUM:ind Who is the richest person in the world , without owning a business ?
+5262 HUM:gr Who manufactures the software , `` PhotoShop '' ?
+5268 HUM:ind Who was the second man to walk on the moon ?
+5271 HUM:ind What author was appointed U.S. ambassador to Spain in 1842 ?
+5273 HUM:ind Who is Westview High 's band director in Funky Winkerbean ?
+5293 HUM:ind What singer 's hit song inspired the Dolly Parton Stallone movie Rhinestone ?
+5301 HUM:desc Who is Edmund Kemper ?
+5302 HUM:ind What was Mao , the Chinese leader 's , full name ?
+5304 HUM:ind Who is the director of the international group called the Human Genome Organization , HUGO , that is trying to coordinate gene-mapping research worldwide ?
+5305 HUM:gr What radio station did Paul Harvey work for ?
+5306 HUM:ind What character narrates Treasure Island ?
+5308 HUM:ind Who starred with Charlie Chaplin in Modern Times and The Great Dictator ?
+5310 HUM:ind What Catch-22 character is elected mayor of half a dozen Italian cities ?
+5311 HUM:ind Whom does Uncle Duke 's girl friend , Honey , room with ?
+5312 HUM:ind When called upon to surrender , what American general replied , `` Sir , I have not yet begun to fight . '' ?
+5315 HUM:gr What team did Babe Ruth play his first major league game for ?
+5317 HUM:ind What relative of Leo Tolstoy translated War and Peace eight times ?
+5320 HUM:ind Who was the second person ever to wear Iron Man 's armor ?
+5322 HUM:ind Who is the director and editor of the movie Big starring Tom Hanks ?
+5328 HUM:ind Who won two gold medals in skiing in the Olympic Games in Calgary ?
+5331 HUM:gr What are the four railways in Monopoly ?
+5346 HUM:ind Who are the top ten richest people in the world ?
+5347 HUM:ind Who is the leader of Brunei ?
+5355 HUM:ind Who were the head writers for the Smothers Brothers Comedy Hour ?
+5356 HUM:ind Who portrayed Prewett in From Here to Eternity ?
+5360 HUM:ind What Scottish poet penned To a Mouse and To a Louse ?
+5361 HUM:ind What is the name of the inventor of silly putty ?
+5363 HUM:ind What famous communist leader died in Mexico City ?
+5371 HUM:ind Who was the first woman to run the mile in less than 4 36893 minutes ?
+5376 HUM:ind Who awarded The Flying Fickle Finger of Fate ?
+5380 HUM:ind What future deer hunter portrayed Annie Hall 's neurotic brother , Duane ?
+5387 HUM:ind What are the top boy names in the U.S. ?
+5390 HUM:ind Who was the lyricist and who was the composer between Gilbert and Sullivan ?
+5391 HUM:ind Who was the lawyer for Randy Craft ?
+5393 HUM:ind Who was the 3rd president of the United States ?
+5395 HUM:ind Name Dick Tracy 's two children .
+5400 HUM:gr What was the previous name for the Commonwealth ?
+5402 HUM:ind Who gave King Arthur the round table ?
+5405 HUM:ind Who became president of the U.S. in 1789 ?
+5406 HUM:ind Who wrote `` The Scarlet Letter '' ?
+5407 HUM:ind Who did Sara Jane Moore try to assassinate ?
+5410 HUM:title What title did Shevardnadze have during the Soviet era ?
+5414 HUM:ind Which king signed the Magna Carta ?
+5417 HUM:ind Name the child left on a doorstep at the beginning of Gasoline Alley .
+5421 HUM:gr Which college did Dikembe Mutombo play basketball for ?
+5430 HUM:ind What was Darth Vader 's son named ?
+5432 HUM:ind What British female pop singing star of the 1960s and early 1970s was a child actress in the 1940s and '50s ?
+5440 HUM:ind Who portrayed Field Marshal Erwin Rommel in The Desert Fox ?
+5449 HUM:ind Who makes the `` cross-your-heart bra '' ?
+5450 HUM:ind Who is Archie Bunker 's son-in-law ?
+5451 HUM:gr What company produces Spumante ?
+5454 HUM:gr What major airline has the best safety record in the world ?
+5455 HUM:ind What President became Chief Justice after his presidency ?
+5460 HUM:ind Who was chief engineer of the Starship Enterprise ?
+5462 HUM:ind What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?
+5466 HUM:ind Who is the most sexy celebrity ?
+5467 HUM:ind What detective lives on Punchbowl Hill and has 11 children ?
+5469 HUM:ind Rotary engines used to be made by whom ?
+5471 HUM:ind Who portrayed the title character in the film The Day of the Jackal ?
+5473 HUM:ind Who was the first X-Man to die in battle ?
+5475 HUM:ind Who is the President of Ghana ?
+5479 HUM:gr What terrorist group was headed by Donald DeFreeze ?
+5483 HUM:ind Who starred in the movie The War of the Worlds ?
+5485 HUM:ind What actor , who had greatest fame on TV , became the father of triplets ?
+5500 HUM:title What does Larry King do for a living ?
+5501 HUM:ind Who shot Lee Harvey Oswald ?
+5514 HUM:ind Who portrayed Renaud in Casablanca ?
+5526 HUM:gr What rock group raised a ruckus at the White House by singing American Woman ?
+5532 HUM:ind What famed clown appeared on an early Howdy Doody Show and insisted that Clarabell be made up as a real clown ?
+5533 HUM:gr What group was formed in 1969 after police met resistance from patrons at the Stonewall , a Greenwich Village gay bar ?
+5534 HUM:desc Who was Confucius ?
+5548 HUM:ind Who is currently the most popular singer in the world ?
+5555 HUM:gr What company started out making pies , and wound up manufacturing plastic throwing toys ?
+5561 HUM:ind Who was the bandleader mentor of Ella Fitzgerald with whom she cowrote `` A_Tisket , A-Tasket '' ?
+5562 HUM:ind Who invented basketball ?
+5565 HUM:gr What was the name of Humphrey Bogart 's club in Casablanca ?
+5566 HUM:gr What U.S. Government agency registers trademarks ?
+5569 HUM:ind What hockey player did Ronald Reagan joke he would swap Texas for ?
+5572 HUM:ind What President was buried at his ancestral home overlooking the Hudson River at Hyde Park , New York ?
+5575 HUM:gr What are the five most popular Usenet groups ?
+5585 HUM:ind Who domesticated the wild turkey ?
+5593 HUM:ind What was the name of the US helicopter pilot shot down over North Korea ?
+5596 HUM:ind Name the designer of the shoe that spawned millions of plastic imitations , known as ` jellies ' .
+5600 HUM:ind Who is Olive Oyl 's brother ?
+5604 HUM:ind What king boycotted Prince Charles 's wedding ?
+5605 HUM:title What does Nicholas Cage do for a living ?
+5606 HUM:ind What was the nickname of model Leslie Hornby ?
+5619 HUM:ind Who portrayed Fatman in the television show , `` Jake and the Fatman '' ?
+5625 HUM:ind What woman was Time 's Man of the Year for 1952 ?
+5627 HUM:ind Who wrote The Ugly Duckling ?
+5628 HUM:ind Who designed London Bridge ?
+5636 HUM:ind Who was considered to be the father of psychology ?
+5647 HUM:ind Who succeeded Nikita Khrushchev as first secretary of the Communist Party ?
+5648 HUM:ind Who was chosen to be the first black chairman of the military Joint Chiefs of Staff ?
+5649 HUM:ind Name of the lady the Great Gatsby pines for ?
+5653 HUM:ind What celebrity couple , when going through a divorce , divided their toilet paper into two equal piles ?
+5655 HUM:ind Who said `` What contemptible scoundrel stole the cork from my lunch ? ''
+5657 HUM:gr What kind of company is 7-Eleven ?
+5664 HUM:gr What are the major companies that are part of Dow Jones ?
+5665 HUM:gr What college did Joe Namath play football for ?
+5674 HUM:ind Who was the 1st U.S. President ?
+5681 HUM:ind Who played Maria in the film West Side Story ?
+5683 HUM:ind Who bestowed great power upon Captain Britain ?
+5688 HUM:ind What is the most common boy 's or girl 's name ?
+5689 HUM:ind Who was the accused in The Trial of the Century , which opened Janurary 1 , 1935 ?
+5707 HUM:ind Who did the Seven Mules block for ?
+5708 HUM:gr What is the world 's largest distilling company ?
+5709 HUM:ind What 's the name of the actress who starred in the movie , `` Silence of the Lambs '' ?
+5711 HUM:ind Who did Napolean defeat at Jena and Auerstadt ?
+5713 HUM:ind What British prime minister and U.S. president were seventh cousins once-removed ?
+5723 HUM:ind What was the name of the Titanic 's captain ?
+5724 HUM:ind Name of heroine in `` Scruples '' ?
+5730 HUM:ind Who wrote The Godfather ?
+5738 HUM:ind Which of the following TV newsmen was a Rhodes scholar ?
+5741 HUM:ind What six-foot temperance advocate wielded her hatchet on saloons ?
+5745 HUM:ind Who invented volleyball ?
+5748 HUM:gr Name a ballet company Mikhail Baryshnikov has danced for ?
+5749 HUM:ind Who led the Normans to victory in the Battle of Hastings ?
+5752 HUM:ind What 's the name of the star of the cooking show , `` Galloping Gourmet '' ?
+5753 HUM:ind Who invented the horoscope ?
+5757 HUM:ind What king was forced to agree to the Magna Carta ?
+5759 HUM:ind What were Babe Ruth 's Christian names ?
+5762 HUM:ind Who was the first elected mayor of Washington , D.C. ?
+5769 HUM:ind Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?
+5771 HUM:ind What is Alice Cooper 's real name ?
+5775 HUM:ind Who invented television ?
+5779 HUM:ind Name the person who burst through the screen in the Lite beer commercials .
+5782 HUM:ind What U.S. vice-president killed Alexander Hamilton in a duel ?
+5786 HUM:ind Who wrote `` Much Ado About Nothing '' ?
+5791 HUM:ind What Louisiana Senator won a seat that had been held by his father and mother ?
+5795 HUM:ind Who won Oscars for her roles in Gone with the Wind and A Streetcar Named Desire ?
+5796 HUM:ind What writer is famous for physically putting himself into the center of his subject matter ?
+5797 HUM:ind Who 's the lead singer of the Led Zeppelin band ?
+5798 HUM:ind In Dana 's `` Two Years Before the Mast , '' what seafarers lived in an abandoned oven on the beach at San Diego ?
+5799 HUM:ind Who plays the cop in the movie `` Kindergarten Cop '' ?
+5803 HUM:ind Who created Billy Pilgrim , a survivor of the Dresden firestorm ?
+5806 HUM:ind Who is the richest woman in the world ?
+5809 HUM:title What 's Mrs. Bridges 's job on TV 's Upstairs , Downstairs ?
+5812 HUM:ind Who were the 1974 Oscar winners ?
+5813 HUM:gr What kind of business is 7-Eleven ?
+5817 HUM:ind Who wrote the book , `` Huckleberry Finn '' ?
+5818 HUM:ind Who would you use the Heimlich maneuver on ?
+5836 HUM:ind What radio , TV and movie character did Jackie Gleason and William Bendix play ?
+5841 HUM:ind Name the U.S. Senate majority leader and the Speaker of the House .
+5842 HUM:gr What name did football 's New York Titans adopt in 1963 ?
+5843 HUM:ind What female suspect in the game of Clue is single ?
+5844 HUM:ind Who owns CNN ?
+5856 HUM:ind What member of The Little Rascals has an on-again , off-again sweetheart in Darla Hood ?
+5861 HUM:ind What attorney-general ordered the closing of Alcatraz ?
+5869 HUM:ind Who was the prophet of the Jewish people ?
+5870 HUM:ind What is the most common name ?
+5871 HUM:ind Who was the oldest U.S. president ?
+5877 HUM:gr What diamond producer controls about 80% of the world 's diamonds ?
+5878 HUM:ind Who is the prophet of the religion of Islam ?
+5879 HUM:ind Who portrayed Maggio in the film From Here to Eternity ?
+5889 HUM:ind Name the cartoon genie conjured by the magic ring shared by Nancy and Chuck .
+5899 HUM:desc Who was Picasso ?
+5900 HUM:ind Who were the only two bald U.S. Presidents ?
+5901 HUM:ind Which member of Charlie 's Angels sang vocals for Josie and the Pussycats ?
+5903 HUM:ind What comedian was The Perfect Fool ?
+5910 HUM:ind Who loved Flash Gordon besides Dale ?
+5921 HUM:ind Who 's the only president buried in Washington
+5923 HUM:ind Whose singing voice was dubbed in for Natalie Wood in West Side Story and Audrey Hepburn in My Fair Lady ?
+5933 HUM:ind President Bush compared Saddam Hussein to whom ?
+5934 HUM:gr What 's the name of Pittsburgh 's baseball team ?
+5936 HUM:ind What TV comedian worked with White Fang , Black Tooth and Pookie the Lion ?
+5937 HUM:ind Who created the character James Bond ?
+5943 HUM:ind What British general surrendered to the colonial army at Saratoga ?
+5951 HUM:ind What artist 's studio was the Bateau-Lavoir in Montmartre ?
+5959 HUM:ind Who wrote the song , `` Silent Night '' ?
+5960 HUM:gr What company is the largest Japanese ship builder ?
+5965 HUM:ind Who wrote The Collector ?
+5966 HUM:gr Which major diamond producer is based in South Africa ?
+5967 HUM:ind Who was Samuel Johnsons 's friend and biographer ?
+5968 HUM:ind What kind of women gave Sigmund Freud erotic dreams ?
+5972 HUM:ind Who wrote the bestselling Missionary Travels and Researches in South Africa , published in 1857 ?
+5973 HUM:ind Who played the father on `` Charles in Charge '' ?
+5990 HUM:title What is Steve Rogers 's profession when he 's not Captain America ?
+5992 HUM:ind Who are the top 10 richest people in the world ?
+5997 HUM:gr What ethnic group introduced the idea of potlatch ?
+6001 HUM:ind What actor was the first man to appear on the cover of McCall 's ?
+6003 HUM:gr What Cruise Line does Kathie Lee Gifford advertise for ?
+6013 HUM:ind Name the Four Horsemen of the Apocalypse .
+6019 HUM:ind What female faith healer wrote the inspirational book I Believe in Miracles ?
+6020 HUM:desc Who was Jinnah ?
+6026 HUM:ind What famous husband-and-wife team did radio ads for Blue Nun wine ?
+6032 HUM:ind Who tramped through Florida looking for the Fountain of Youth ?
+6037 HUM:gr What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?
+6047 HUM:ind Who followed up his first two underwater thrillers with The Girl of the Sea of Cortez ?
+6057 HUM:ind Who is the one Independent Member of Congress ?
+6058 HUM:gr What is a society ruled by elders ?
+6059 HUM:ind What two presidents of the U.S. published books of poetry ?
+6060 HUM:ind Which of the Seven Dwarfs comes first alphabetically ?
+6061 HUM:ind What professional cricketer 's son wrote The War of the Worlds in 1898 ?
+6070 HUM:ind What English playwright penned : `` Where the bee sucks , so shall I '' ?
+6075 HUM:ind What was Fred Astaire 's dancing partner 's name ?
+6079 HUM:ind What heavyweight boxer was known as The Wild Bull of the Pampas ?
+6091 HUM:ind What TV talk-show host lends his name to a line of men 's clothing ?
+6098 HUM:ind Who invented the electric guitar ?
+6111 HUM:ind Who is the President of Pergament ?
+6124 HUM:ind What American naval officer broke Japan 's isolationist policy in 1853 ?
+6128 HUM:gr Which police department made the all-time biggest cocaine bust in Ventura County ?
+6129 HUM:ind Who gave us the `` Rolling Writer '' ?
+6131 HUM:ind Who wrote The Secret Life of Walter Mitty ?
+6135 HUM:ind Who is the head of the World Bank ?
+6141 HUM:ind What is the most popular last name ?
+6143 HUM:ind Who moderated the first Kennedy-Nixon TV debate ?
+6144 HUM:ind Who portrayed George M. Cohan in 1942 's Yankee Doodle Dandy ?
+6149 HUM:ind Who 's the only U.S. president to have won a Pulitzer Prize ?
+6151 HUM:desc Who was Maria Theresa ?
+6156 HUM:title What is Larry King 's occupation ?
+6157 HUM:ind Who invented `` The Muppets '' ?
+6160 HUM:gr Who are cartoondom 's Super Six ?
+6163 HUM:ind What fool is not so wise To lose an oath to win a paradise ?
+6177 HUM:ind What monarch signed the Magna Carta ?
+6185 HUM:gr What corporation does Madonna advertise for ?
+6193 HUM:gr What store does Martha Stewart advertise for ?
+6201 HUM:gr Which police department made the largest cocaine seizure ever in Ventura County ?
+6207 HUM:ind What Pope inaugurated Vatican International Radio ?
+6210 HUM:ind What king is satirized in the line : `` The King was in the countinghouse , counting all his money '' ?
+6216 HUM:gr What company 's trademark was His Master 's Voice ?
+6217 HUM:ind What Pope inaugurated Vatican International Radio ?
+6218 HUM:ind What director made one silent and one sound version of The Ten Commandments ?
+6220 HUM:ind Which presidents of the USA were Masons ?
+6221 HUM:ind Who was the tallest U.S. president ?
+6224 HUM:ind What character in The Beverly Hillbillies has the given names Daisy Moses ?
+6225 HUM:ind What comedienne calls her sister-in-law Captain Bligh and her mother-in-law Moby Dick ?
+6227 HUM:ind What president also became a supreme court justice ?
+6237 HUM:ind Who was actress June Havoc 's legendary sister ?
+6240 HUM:ind Who killed JFK ?
+6241 HUM:ind Who was the star witness at the Senate Watergate hearings ?
+6245 HUM:ind Who is the son-in-law of Sen. Everett Dirkson who was also a senator in the '70 's ?
+6250 HUM:gr Who made the rotary engine automobile ?
+6253 HUM:ind What were the last names of gangsters Bonnie and Clyde ?
+6256 HUM:ind Who invented panties ?
+6257 HUM:gr What is Pittsburgh 's baseball team called ?
+6261 HUM:ind What President had never held an elected office until he was elected to the White House ?
+6264 HUM:ind Who is the richest person in the world ?
+6273 HUM:gr What international organization was founded by Clara Barton ?
+6274 HUM:gr What corporation does Madonna advertise for ?
+6280 HUM:ind Who is buried in the great pyramid of Giza ?
+6286 HUM:ind What famous actress made her first appearance on stage at the age of five in the year 191 as `` Baby '' ?
+6288 HUM:gr What are the three most successful companies of our time ?
+6290 HUM:gr What is the name of the company that manufactures the `` American Girl '' doll collection ?
+6302 HUM:ind What is Michael Jackson 's father 's name ?
+6303 HUM:ind Who was the girl in Peter Sellers 's soup ?
+6304 HUM:ind What creative genius said : `` Everything comes to him who hustles while he waits '' ?
+6315 HUM:ind Who was Ben Casey 's boss ?
+6316 HUM:ind What multitalented Academy-award-winning director failed a college course in motion-picture production ?
+6324 HUM:ind What wild and crazy guy wrote a book called Cruel Shoes ?
+6327 HUM:gr What police force did Mack Sennett create ?
+6329 HUM:ind Who was in Death of a Salesman original movie , not 1985 ?
+6331 HUM:ind What is Dr. Ruth 's last name ?
+6335 HUM:ind What 's the middle name of movie producer Joseph E. Levine ?
+6340 HUM:ind Who told all in Ball Four ?
+6342 HUM:ind Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?
+6349 HUM:ind What name does the world know Renaissance artist Kyriakos Theotokopoulos by ?
+6350 HUM:ind Who is the president of Bolivia ?
+6352 HUM:ind Who played the title role in The Romantic Englishwoman ?
+6353 HUM:ind What President once told Gene Autry : `` Please give my regards to your wife Dale '' ?
+6354 HUM:ind Who made the deodorant that claimed that it `` actually builds up resistance to odor '' ?
+6357 HUM:ind Who used AuH2O as an election slogan ?
+6366 HUM:ind What painter popularized soup cans and Brillo soap pad boxes ?
+6367 HUM:ind Who played Lucas McCain on The Rifleman ?
+6369 HUM:ind Who was the only person convicted in the My Lai Massacre ?
+6373 HUM:gr What was the name given the 6 , 500 German airforce troops that used the Spanish Civil War as a training exercise ?
+6375 HUM:gr Rotary engine cars were made by what company ?
+6376 HUM:ind Who was the lawyer who represented Randy Steven Craft ?
+6380 HUM:ind What part did Benjamin Franklin play in the development of the newspaper in America ?
+6386 HUM:ind Who is the prime minister of Australia ?
+6394 HUM:gr What major league baseball team compiled the best won-lost record between 1957 and 1983 ?
+6396 HUM:ind Who died with more than 1 , 000 U.S. patents to his credit ?
+6397 HUM:ind What was the name of Randy Steven Craft 's lawyer ?
+6398 HUM:ind Who won the first general election for President held in Malawi in May 1994 ?
+6410 HUM:ind What Argentine revolutionary fought with Castro and died in Bolivia in May , 1979 ?
+6413 HUM:ind What famous comic strip character died of acne ?
+6417 HUM:desc Who is Zebulon Pike ?
+6423 HUM:ind What has been the most common Christian name of U.S. presidents ?
+6430 HUM:ind What English explorer discovered and named Virginia ?
+6433 HUM:gr What people make up half the Soviet Union 's population ?
+6438 HUM:gr Who used to make cars with rotary engines ?
+6444 HUM:desc Who was Buffalo Bill ?

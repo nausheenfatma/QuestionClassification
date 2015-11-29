@@ -1,0 +1,52 @@
+ENTY : What do you call a professional map drawer ? 
+DESC : What are Aborigines ? 
+DESC : What is hybridization ? 
+ENTY : What color is indigo ? 
+DESC : How old do you have to be in order to rent a car in Italy ? 
+ENTY : What does a barometer measure ? 
+ENTY : What color is a giraffe s tongue ?ABBR:exp What does USPS stand for ? 
+NUM : What year did the NFL go on strike ? 
+DESC : What is solar wind ? 
+NUM : What date did Neil Armstrong land on the moon ? 
+NUM : When was Hiroshima bombed ? 
+LOC : Where is the Savannah River ? 
+HUM : Who was the first woman killed in the Vietnam War ? 
+LOC : What planet has the strongest magnetic field of all the planets ? 
+HUM : Who is the governor of Alaska ? 
+NUM : What year did Mussolini seize power in Italy ? 
+LOC : What is the capital of Persia ? 
+LOC : Where is the Eiffel Tower ? 
+NUM : How many hearts does an octopus have ? 
+DESC : What is pneumonia ? 
+LOC : What is the deepest lake in the US ? 
+DESC : What is a fuel cell ? 
+HUM : Who was the first US president to appear on TV ? 
+LOC : Where is the Little League Museum ? 
+ENTY : What are the two types of twins ? 
+LOC : What is the brightest star ? 
+DESC : What is diabetes ? 
+NUM : When was President Kennedy shot ? 
+DESC : What is TMJ ? 
+ENTY : What color is yak milk ? 
+NUM : What date was Dwight D Eisenhower born ? 
+DESC : What does the technical term ISDN mean ? 
+DESC : Why is the sun yellow ? 
+NUM : What is the conversion rate between dollars and pounds ? 
+NUM : When was Abraham Lincoln born ? 
+DESC : What is the Milky Way ? 
+DESC : What is mold ? 
+NUM : What year was Mozart born ? 
+ENTY : What is a group of frogs called ? 
+ENTY : What is the name of William Penn s ship ? 
+DESC : What is the melting point of gold ? 
+LOC : What is the street address of the White House ? 
+DESC : What is semolina ? 
+ENTY : What fruit is Melba sauce made from ? 
+DESC : What is Ursa Major ? 
+NUM : What is the percentage of water content in the human body ? 
+NUM : How much does water weigh ? 
+ENTY : What was President Lyndon Johnson s reform program called ? 
+NUM : What is the murder rate in Windsor Ontario ? 
+HUM : Who is the only president to serve 2 non-consecutive terms ? 
+NUM : What is the population of Australia ? 
+HUM : Who painted the ceiling of the Sistine Chapel ? 

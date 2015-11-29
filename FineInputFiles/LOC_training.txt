@@ -1,0 +1,990 @@
+16 LOC:state What sprawling U.S. state boasts the most airports ?
+28 LOC:other What is the highest waterfall in the United States ?
+30 LOC:state Which two states enclose Chesapeake Bay ?
+39 LOC:other Where do the adventures of `` The Swiss Family Robinson '' take place ?
+51 LOC:country What country do the Galapagos Islands belong to ?
+59 LOC:state What U.S. state lived under six flags ?
+61 LOC:other Where is the Loop ?
+63 LOC:country What country 's capital is Tirana ?
+68 LOC:other What are the names of the tourist attractions in Reims ?
+70 LOC:other What body of water does the Danube River flow into ?
+79 LOC:country What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
+83 LOC:state What is the nickname for the state of Mississippi ?
+86 LOC:country What country did King Wenceslas rule ?
+99 LOC:country What country 's national passenger rail system is called Via ?
+107 LOC:state What U.S. state is Fort Knox in ?
+109 LOC:mount Where is the highest point in Japan ?
+111 LOC:other Where does Barney Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?
+112 LOC:other What are the world 's four oceans ?
+116 LOC:other Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?
+120 LOC:other Where can I find a list of `` classic '' books 5th and 6th graders should read ?
+140 LOC:other Where is the Orinoco ?
+142 LOC:city What city boasts Penn 's Landing , on the banks of the Delaware river ?
+156 LOC:country What two South American countries do n't border Brazil ?
+164 LOC:other Where is the Rose Bowl played ?
+167 LOC:other What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?
+170 LOC:other Where are the 49 steps ?
+179 LOC:city What is the name of the city that Maurizio Pellegrin lives in ?
+180 LOC:other Where can I find pictorial directions on how to build a very simple treehouse ?
+189 LOC:country What country contains Africa 's northernmost point ?
+191 LOC:other Where is the Kalahari desert ?
+193 LOC:city What city is sometimes called Gotham ?
+198 LOC:country What countries have the largest areas of forest ?
+212 LOC:city What South American city has the world 's highest commercial landing field ?
+230 LOC:country What two European countries entered the War of American Independence against the British ?
+236 LOC:mount What is the name of the tallest mountain in the world ?
+237 LOC:other Where can I find a review of Nightmare on Elm Street in a film journal ?
+244 LOC:other Where was George Washington born ?
+259 LOC:other What Las Vegas hotel burned in November , 1980 , with the loss of 84 lives ?
+265 LOC:city What European city do Nicois live in ?
+285 LOC:city What is California 's capital ?
+288 LOC:country What European country is home to the beer-producing city of Budweis ?
+291 LOC:other Where was Christopher Columbus born ?
+295 LOC:other What sea did the Romans call mare nostrum ?
+298 LOC:city What city did the Flintstones live in ?
+310 LOC:other What stadium do the Miami Dolphins play their home games in ?
+316 LOC:state What state is John F. Kennedy buried in ?
+318 LOC:state What U.S. state has an element named for it ?
+322 LOC:other What is the deepest area of the Arctic Ocean ?
+327 LOC:other Where can I find a `` Fifth Element '' screensaver ?
+341 LOC:other What is Answers.com 's address ?
+342 LOC:other Where can I buy movies on videotape online ?
+354 LOC:other What ocean is the largest in the world ?
+362 LOC:city Which city did Christian Crusaders fight to recapture from the Muslims ?
+373 LOC:other Where does chocolate come from ?
+376 LOC:other Where can I find a case on Individuals with Disabilities Education Act of 1991 ?
+382 LOC:mount What mountains lie between the Arkansas and Missouri rivers ?
+385 LOC:other What 's the closest G2 Spectrum Yellow Dwarf to Earth ?
+393 LOC:other Where is Basque country located ?
+401 LOC:city What South Korean city is served by Kimpo International Airport ?
+412 LOC:mount What was the highest mountain on earth before Mount Everest was discovered ?
+413 LOC:other Where was the Ligurian Republic , 1797-185 , ?
+414 LOC:country What country 's people are the top television watchers ?
+418 LOC:city What Nevada center has been dubbed The Biggest Little City in the World ?
+421 LOC:other Where must a soccer goalie stand to be permitted to handle the ball ?
+423 LOC:state In what U.S. state was the first woman governor elected ?
+435 LOC:mount What is the highest peak in Africa ?
+436 LOC:other Where is Procter & Gamble headquartered in the U.S. ?
+437 LOC:other What desert has been called The Garden of Allah ?
+452 LOC:other Where 's the 19th hole on a golf course ?
+455 LOC:other Where can I find a person 's address from a telephone number ?
+458 LOC:other Where did Sarge Steel get his metal hand ?
+462 LOC:country What country did King Gustav V reign over from 197 to 195 ?
+465 LOC:other In what area of the world was the Six Day War fought ?
+466 LOC:other What is the brightest star visible from Earth ?
+470 LOC:other Where do hyenas live ?
+488 LOC:city What U.S. city is The Queen of the Pacific ?
+492 LOC:other Where can I find out the top 1 singles ?
+502 LOC:other What was known as the Spice Island ?
+508 LOC:city McCarren Airport is located in what city ?
+514 LOC:country What country has the largest sheep population ?
+516 LOC:country What country is the world 's largest importer of cognac ?
+522 LOC:country What country has the most time zones , with 11 ?
+527 LOC:city What city is Logan Airport in ?
+531 LOC:city What is the largest city on the Great Lakes ?
+537 LOC:city What city gained renown for its pea-soup fogs ?
+546 LOC:city What Russian seaport has a name meaning `` Lord of the East '' ?
+547 LOC:other Where can stocks be traded on-line ?
+555 LOC:mount Where do people mountain climb in Nepal ?
+559 LOC:country What are the Nordic nations ?
+560 LOC:other Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?
+561 LOC:state What U.S. state borders Illinois to the north ?
+567 LOC:other Where did the myth of Santa Claus originate ?
+569 LOC:city What city is served by Logan International Airport ?
+571 LOC:other What attracts tourists to Reims ?
+576 LOC:other Where is Procter & Gamble based in the U.S. ?
+580 LOC:other What is the web address of the list of e-mail addresses of members of the House of Representatives ?
+585 LOC:other Where is the Abominable Snowman said to wander ?
+592 LOC:country What was the only country you were allowed to drive into Israel from in 1979 ?
+599 LOC:other In What city or state do the most gay men live in ?
+623 LOC:other Where can I find the best free evidence for debate about Russia ?
+624 LOC:other What is Bill Gates of Microsoft E-mail address ?
+627 LOC:city What Russian city boasts the Hermitage Museum ?
+643 LOC:other Where is Trinidad ?
+656 LOC:other What 's the tallest building in New York City ?
+660 LOC:other Where can I find information on the Narragansett Indians and other tribes in Rhode Island ?
+670 LOC:mount What is the highest mountain in the world ?
+671 LOC:other What arch can you see from the Place de la Concorde ?
+674 LOC:other Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ?
+675 LOC:country Which is the wealthiest country in the world ?
+685 LOC:country Which country is Australia 's largest export market ?
+686 LOC:other Where is the Kentucky Horse Park located ?
+691 LOC:state What is the leading pecan and peanut growing state ?
+702 LOC:other Where are the tropical rain forest distributions ?
+709 LOC:other Where was Lincoln assassinated ?
+722 LOC:city What city was President William McKinley shot in ?
+723 LOC:city What city has the world 's longest subway system ?
+728 LOC:city What are the five most expensive cities in the world ?
+733 LOC:other What county is Chicago in ?
+750 LOC:other Where is the Danube ?
+756 LOC:other What is the longest place name in the U.S. ?
+758 LOC:other Where does Buzz Aldrin want to build a permanent , manned space station ?
+765 LOC:other Where can I find correct tabs for Third Eye Blind songs ?
+779 LOC:country What Asian country has a bill of rights for cows ?
+800 LOC:city What city is the setting for Puccini 's opera La Boheme ?
+815 LOC:other Where is Mozambique located ?
+824 LOC:city What city houses the U.S. headquarters of Procter and Gamble ?
+848 LOC:country What is the smallest country in Africa ?
+862 LOC:other Where is Windsor Castle ?
+867 LOC:other Where can I find the names of all the 15 Pokemon ?
+868 LOC:state What state does Martha Stewart live in ?
+870 LOC:country What are the Benelux countries ?
+871 LOC:other Where 's the Petrified Forest ?
+873 LOC:other Where is Tornado Alley ?
+876 LOC:state What state in the U.S. has the most blacks ?
+879 LOC:city What is the city in which Maurizio Pellegrin lives called ?
+885 LOC:other What is the oldest website on the Internet ?
+900 LOC:other What 's the longest river in the world ?
+906 LOC:mount What mountain range is traversed by the highest railroad in the world ?
+911 LOC:other Where are the leading medical groups specializing in lung diseases ?
+913 LOC:other What 's the sacred river of India ?
+914 LOC:country What is Stefan Edberg 's native country ?
+917 LOC:country Name the largest country in South America .
+927 LOC:country What country are Godiva chocolates from ?
+930 LOC:state What U.S. state records the least rainfall ?
+933 LOC:city What Texas city got its name from the Spanish for `` yellow '' ?
+935 LOC:country What country did the Nile River originate in ?
+941 LOC:country What country has the best defensive position in the board game Diplomacy ?
+942 LOC:country What two countries share the Khyber Pass ?
+951 LOC:city In what city is the headquarters of Sinn Fein ?
+952 LOC:other Where can I find information on George Bush ?
+961 LOC:other What 's the second-largest island in the world ?
+970 LOC:other Where is Logan Airport ?
+981 LOC:state What is the state nickname of Mississippi ?
+989 LOC:other What 's the name of the temple that is located near the capital city of Laos ?
+995 LOC:other Where is the actress , Marion Davies , buried ?
+1014 LOC:state What sprawling U.S. state boasts the most airports ?
+1026 LOC:other What is the highest waterfall in the United States ?
+1028 LOC:state Which two states enclose Chesapeake Bay ?
+1037 LOC:other Where do the adventures of `` The Swiss Family Robinson '' take place ?
+1049 LOC:country What country do the Galapagos Islands belong to ?
+1057 LOC:state What U.S. state lived under six flags ?
+1059 LOC:other Where is the Loop ?
+1061 LOC:country What country 's capital is Tirana ?
+1064 LOC:city Which city has the oldest relationship as a sister city with Los Angeles ?
+1067 LOC:other What are the names of the tourist attractions in Reims ?
+1069 LOC:other What body of water does the Danube River flow into ?
+1078 LOC:country What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
+1082 LOC:state What is the nickname for the state of Mississippi ?
+1085 LOC:country What country did King Wenceslas rule ?
+1098 LOC:country What country 's national passenger rail system is called Via ?
+1106 LOC:state What U.S. state is Fort Knox in ?
+1108 LOC:mount Where is the highest point in Japan ?
+1110 LOC:other Where does Barney Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?
+1111 LOC:other What are the world 's four oceans ?
+1115 LOC:other Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?
+1119 LOC:other Where can I find a list of `` classic '' books 5th and 6th graders should read ?
+1139 LOC:other Where is the Orinoco ?
+1141 LOC:city What city boasts Penn 's Landing , on the banks of the Delaware river ?
+1155 LOC:country What two South American countries do n't border Brazil ?
+1163 LOC:other Where is the Rose Bowl played ?
+1166 LOC:other What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?
+1169 LOC:other Where are the 49 steps ?
+1178 LOC:city What is the name of the city that Maurizio Pellegrin lives in ?
+1179 LOC:other Where can I find pictorial directions on how to build a very simple treehouse ?
+1188 LOC:country What country contains Africa 's northernmost point ?
+1190 LOC:other Where is the Kalahari desert ?
+1192 LOC:city What city is sometimes called Gotham ?
+1197 LOC:country What countries have the largest areas of forest ?
+1211 LOC:city What South American city has the world 's highest commercial landing field ?
+1229 LOC:country What two European countries entered the War of American Independence against the British ?
+1235 LOC:mount What is the name of the tallest mountain in the world ?
+1236 LOC:other Where can I find a review of Nightmare on Elm Street in a film journal ?
+1243 LOC:other Where was George Washington born ?
+1258 LOC:other What Las Vegas hotel burned in November , 1980 , with the loss of 84 lives ?
+1264 LOC:city What European city do Nicois live in ?
+1284 LOC:city What is California 's capital ?
+1287 LOC:country What European country is home to the beer-producing city of Budweis ?
+1290 LOC:other Where was Christopher Columbus born ?
+1294 LOC:other What sea did the Romans call mare nostrum ?
+1297 LOC:city What city did the Flintstones live in ?
+1309 LOC:other What stadium do the Miami Dolphins play their home games in ?
+1315 LOC:state What state is John F. Kennedy buried in ?
+1317 LOC:state What U.S. state has an element named for it ?
+1321 LOC:other What is the deepest area of the Arctic Ocean ?
+1326 LOC:other Where can I find a `` Fifth Element '' screensaver ?
+1340 LOC:other What is Answers.com 's address ?
+1341 LOC:other Where can I buy movies on videotape online ?
+1353 LOC:other What ocean is the largest in the world ?
+1361 LOC:city Which city did Christian Crusaders fight to recapture from the Muslims ?
+1372 LOC:other Where does chocolate come from ?
+1375 LOC:other Where can I find a case on Individuals with Disabilities Education Act of 1991 ?
+1381 LOC:mount What mountains lie between the Arkansas and Missouri rivers ?
+1384 LOC:other What 's the closest G2 Spectrum Yellow Dwarf to Earth ?
+1392 LOC:other Where is Basque country located ?
+1400 LOC:city What South Korean city is served by Kimpo International Airport ?
+1411 LOC:mount What was the highest mountain on earth before Mount Everest was discovered ?
+1412 LOC:other Where was the Ligurian Republic , 1797-185 , ?
+1413 LOC:country What country 's people are the top television watchers ?
+1417 LOC:city What Nevada center has been dubbed The Biggest Little City in the World ?
+1420 LOC:other Where must a soccer goalie stand to be permitted to handle the ball ?
+1422 LOC:state In what U.S. state was the first woman governor elected ?
+1434 LOC:mount What is the highest peak in Africa ?
+1435 LOC:other Where is Procter & Gamble headquartered in the U.S. ?
+1436 LOC:other What desert has been called The Garden of Allah ?
+1451 LOC:other Where 's the 19th hole on a golf course ?
+1454 LOC:other Where can I find a person 's address from a telephone number ?
+1457 LOC:other Where did Sarge Steel get his metal hand ?
+1461 LOC:country What country did King Gustav V reign over from 197 to 195 ?
+1464 LOC:other In what area of the world was the Six Day War fought ?
+1465 LOC:other What is the brightest star visible from Earth ?
+1469 LOC:other Where do hyenas live ?
+1487 LOC:city What U.S. city is The Queen of the Pacific ?
+1491 LOC:other Where can I find out the top 1 singles ?
+1501 LOC:other What was known as the Spice Island ?
+1507 LOC:city McCarren Airport is located in what city ?
+1513 LOC:country What country has the largest sheep population ?
+1515 LOC:country What country is the world 's largest importer of cognac ?
+1521 LOC:country What country has the most time zones , with 11 ?
+1526 LOC:city What city is Logan Airport in ?
+1530 LOC:city What is the largest city on the Great Lakes ?
+1536 LOC:city What city gained renown for its pea-soup fogs ?
+1545 LOC:city What Russian seaport has a name meaning `` Lord of the East '' ?
+1546 LOC:other Where can stocks be traded on-line ?
+1554 LOC:mount Where do people mountain climb in Nepal ?
+1558 LOC:country What are the Nordic nations ?
+1559 LOC:other Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?
+1560 LOC:state What U.S. state borders Illinois to the north ?
+1566 LOC:other Where did the myth of Santa Claus originate ?
+1568 LOC:city What city is served by Logan International Airport ?
+1570 LOC:other What attracts tourists to Reims ?
+1575 LOC:other Where is Procter & Gamble based in the U.S. ?
+1579 LOC:other What is the web address of the list of e-mail addresses of members of the House of Representatives ?
+1584 LOC:other Where is the Abominable Snowman said to wander ?
+1591 LOC:country What was the only country you were allowed to drive into Israel from in 1979 ?
+1598 LOC:other In What city or state do the most gay men live in ?
+1622 LOC:other Where can I find the best free evidence for debate about Russia ?
+1623 LOC:other What is Bill Gates of Microsoft E-mail address ?
+1626 LOC:city What Russian city boasts the Hermitage Museum ?
+1642 LOC:other Where is Trinidad ?
+1655 LOC:other What 's the tallest building in New York City ?
+1659 LOC:other Where can I find information on the Narragansett Indians and other tribes in Rhode Island ?
+1669 LOC:mount What is the highest mountain in the world ?
+1670 LOC:other What arch can you see from the Place de la Concorde ?
+1673 LOC:other Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ?
+1674 LOC:country Which is the wealthiest country in the world ?
+1684 LOC:country Which country is Australia 's largest export market ?
+1685 LOC:other Where is the Kentucky Horse Park located ?
+1690 LOC:state What is the leading pecan and peanut growing state ?
+1701 LOC:other Where are the tropical rain forest distributions ?
+1708 LOC:other Where was Lincoln assassinated ?
+1721 LOC:city What city was President William McKinley shot in ?
+1722 LOC:city What city has the world 's longest subway system ?
+1727 LOC:city What are the five most expensive cities in the world ?
+1732 LOC:other What county is Chicago in ?
+1749 LOC:other Where is the Danube ?
+1755 LOC:other What is the longest place name in the U.S. ?
+1757 LOC:other Where does Buzz Aldrin want to build a permanent , manned space station ?
+1764 LOC:other Where can I find correct tabs for Third Eye Blind songs ?
+1778 LOC:country What Asian country has a bill of rights for cows ?
+1799 LOC:city What city is the setting for Puccini 's opera La Boheme ?
+1814 LOC:other Where is Mozambique located ?
+1823 LOC:city What city houses the U.S. headquarters of Procter and Gamble ?
+1847 LOC:country What is the smallest country in Africa ?
+1861 LOC:other Where is Windsor Castle ?
+1866 LOC:other Where can I find the names of all the 15 Pokemon ?
+1867 LOC:state What state does Martha Stewart live in ?
+1869 LOC:country What are the Benelux countries ?
+1870 LOC:other Where 's the Petrified Forest ?
+1872 LOC:other Where is Tornado Alley ?
+1875 LOC:state What state in the U.S. has the most blacks ?
+1878 LOC:city What is the city in which Maurizio Pellegrin lives called ?
+1884 LOC:other What is the oldest website on the Internet ?
+1899 LOC:other What 's the longest river in the world ?
+1905 LOC:mount What mountain range is traversed by the highest railroad in the world ?
+1910 LOC:other Where are the leading medical groups specializing in lung diseases ?
+1912 LOC:other What 's the sacred river of India ?
+1913 LOC:country What is Stefan Edberg 's native country ?
+1916 LOC:country Name the largest country in South America .
+1926 LOC:country What country are Godiva chocolates from ?
+1929 LOC:state What U.S. state records the least rainfall ?
+1932 LOC:city What Texas city got its name from the Spanish for `` yellow '' ?
+1934 LOC:country What country did the Nile River originate in ?
+1940 LOC:country What country has the best defensive position in the board game Diplomacy ?
+1941 LOC:country What two countries share the Khyber Pass ?
+1950 LOC:city In what city is the headquarters of Sinn Fein ?
+1951 LOC:other Where can I find information on George Bush ?
+1960 LOC:other What 's the second-largest island in the world ?
+1969 LOC:other Where is Logan Airport ?
+1980 LOC:state What is the state nickname of Mississippi ?
+1988 LOC:other What 's the name of the temple that is located near the capital city of Laos ?
+1994 LOC:other Where is the actress , Marion Davies , buried ?
+2018 LOC:other Where can I buy a good snowboard for less than $200 ?
+2024 LOC:other What London street is the home of British journalism ?
+2030 LOC:city In what city is the famed St. Mark 's Square ?
+2033 LOC:other Where is Tufts University ?
+2046 LOC:state What province is Edmonton located in ?
+2073 LOC:other What is the oldest website on the Internet ?
+2078 LOC:country What country received all the Nobel Prizes awarded in 1976 ?
+2082 LOC:other What is Britain 's possession on the Chinese mainland ?
+2093 LOC:state What are the only two states that incorporate the Confederate battle flag in their flags ?
+2096 LOC:other Where is Guam ?
+2108 LOC:other What are tourist attractions in Reims ?
+2114 LOC:city What Colorado city owns its own glacier ?
+2121 LOC:other Where did guinea pigs originate ?
+2122 LOC:country What two countries ' coastlines border the Bay of Biscay ?
+2134 LOC:city What European capital celebrated its 2 , 000th anniversary in 1951 ?
+2137 LOC:country What country was the setting of You Only Live Twice ?
+2145 LOC:state In what state was the first co-educational college established
+2149 LOC:country What country in Latin America is the largest one ?
+2150 LOC:other On which Hawaiian island is Pearl Harbor ?
+2159 LOC:city What city is wiener schnitzel named for ?
+2162 LOC:other What desert has the highest sand dunes ?
+2163 LOC:country What two countries contain Sierra Nevada mountains ?
+2170 LOC:other What continent 's name appears on the upper left corner of a Budweiser label ?
+2174 LOC:other Where can I get information and statistics on countries and nations ?
+2177 LOC:other Where can I find a list of all the companies in America that offer a direct stock purchase plan ?
+2188 LOC:country What country was A Terrible Beauty to Leon Uris ?
+2190 LOC:other Where can I buy a hat like the kind Jay Kay from Jamiroquai wears ?
+2196 LOC:other What is the Homelite Inc. home page ?
+2198 LOC:other What mountainous region of the world is the Lhasa Apso dog native to ?
+2210 LOC:other Where can I find information about touring the Philippines ?
+2218 LOC:other Where can I find information on the cyclone that hit New Jersey on 8/28/1941 ?
+2227 LOC:other Where was Richard Nixon when Gerald Ford became president ?
+2240 LOC:other What are the largest breweries in the world ?
+2246 LOC:country What country and western singer is known as The Silver Fox ?
+2247 LOC:other What building appropriately enough is depicted on the back of the 1-dollar bill ?
+2257 LOC:other Where is Rider College located ?
+2261 LOC:other Where was the first restaurant ?
+2262 LOC:other Where can I find full written draft of CTBT ?
+2269 LOC:other What is website of the International Court of Justice ?
+2270 LOC:other Where are 8 of the 10 highest mountains in the world ?
+2271 LOC:other Where can I look at a perpetual calendar ?
+2279 LOC:city What is one of the cities that the University of Minnesota is located in ?
+2290 LOC:other What is the most useful site on the Internet ?
+2291 LOC:mount What is the world 's highest peak ?
+2297 LOC:other Where is Hearst Castle , built by publisher William Randolph Hearst ?
+2298 LOC:city What 's the largest U.S. city on the Great Lakes ?
+2308 LOC:other What sea separates Naples and Algiers ?
+2327 LOC:country What country claimed Rubens , Van Dyck and Bruegel as citizens ?
+2331 LOC:other Where can I find examples of legal cases about the Individuals with Disabilities Education Act ?
+2335 LOC:other Where is Ocho Rios ?
+2337 LOC:other What ocean does Mauritania border ?
+2342 LOC:country What country is Kosovo a part of ?
+2343 LOC:city Tell me what city the Kentucky Horse Park is near ?
+2345 LOC:other What is Bill Gross 's email address ?
+2356 LOC:state What 's the northernmost U.S. state apart from Alaska ?
+2357 LOC:other Name an art gallery in New York .
+2361 LOC:other What building are British monarchs crowned in ?
+2368 LOC:country What country was first to use the airplane as a weapon of war , against the Turks in Libya ?
+2380 LOC:city What is the capital of Burkina Faso ?
+2381 LOC:other What continent is Bolivia on ?
+2386 LOC:state What U.S. state has the most blondes ?
+2398 LOC:city What city is often called The Insurance Capital of the World ?
+2406 LOC:country What country was Sir Edmund Hillary born in ?
+2409 LOC:city What city was John F. Kennedy nominated for president in ?
+2414 LOC:other Where did the Battle of the Bulge take place ?
+2417 LOC:state What state full of milk and honey was the destination in The Grapes of Wrath ?
+2418 LOC:other What is the tallest building in Japan ?
+2419 LOC:other Where is Sinn Fein 's headquarters ?
+2426 LOC:country What country 's northernmost city is Darwin ?
+2427 LOC:other What sound does Olympia , Washington , overlook ?
+2429 LOC:city What Kentucky city calls itself The Horse Center of America ?
+2432 LOC:country What European country boasts the city of Furth , found where the rivers Rednitz and Pegnitz converge ?
+2433 LOC:state What U.S. state is Dixville Notch in ?
+2434 LOC:other Where was the Cisalpine Republic , 1797-185 , ?
+2435 LOC:other What is the largest shopping mall in the world ?
+2447 LOC:other Where is the location of the Orange Bowl ?
+2451 LOC:other What are the seven seas ?
+2461 LOC:country Which country is known as `` Big Bear '' ?
+2472 LOC:other What 's the home of the Rockettes ?
+2473 LOC:other Where can I find all the information I need to know about the English Civil War , 1642-1649 , ?
+2482 LOC:other What is the website for the USA journal ?
+2488 LOC:state What U.S. state has the second-longest coastline ?
+2489 LOC:state What state 's home to the Buffalo Bill Historical Center ?
+2496 LOC:other What is the largest natural lake in Pennsylvania ?
+2503 LOC:other Where does the Santa Fe Trail begin and end ?
+2508 LOC:city Which city in Canada is the least-populated ?
+2520 LOC:other Where is the Isle of Man ?
+2527 LOC:other What do we call the imaginary line along the top of the Rocky Mountains ?
+2528 LOC:country What country 's capital is Lagos ?
+2529 LOC:other Where does Ray Bradbury 's Chronicles take place ?
+2534 LOC:other Where can I get information about cystic fibrosis ?
+2535 LOC:other Where did Honecker rule ?
+2550 LOC:country What African country is governed from Ouagadougou ?
+2557 LOC:city What French seaport claims to be The Home of Wines ?
+2564 LOC:country What countries have the largest armed forces in the world ?
+2595 LOC:city What city is terrorized by Dracula in The Night Stalker ?
+2602 LOC:other What is the best hospital for orthopedics in the country ?
+2622 LOC:other What lake is Sheboygan on ?
+2628 LOC:other What is the largest lake in North America ?
+2649 LOC:city What city or state do the most gay men live in ?
+2663 LOC:other Where are all European and American eels born ?
+2671 LOC:city What was the first town to be chartered in Vermont ?
+2672 LOC:state What state has the longest Great Lakes shoreline ?
+2673 LOC:state What U.S. state ends with a G ?
+2676 LOC:other What are the largest libraries in the US ?
+2685 LOC:country What country boasts the most dams ?
+2687 LOC:other What Metropolis landmark was first introduced in the Superman cartoons of the 1940 's ?
+2688 LOC:other Where can one find Mozambique ?
+2691 LOC:city In what city is the US Declaration of Independence located ?
+2700 LOC:country What nationality was Jackson Pollock ?
+2706 LOC:other What is worth seeing in Reims ?
+2721 LOC:other Where is Santa Lucia ?
+2729 LOC:city What city is found in the city of OZ ?
+2733 LOC:state What populous state covers 49 , 576 square miles ?
+2735 LOC:state In what state was there an 11 million gallon oil spill ?
+2737 LOC:country What country did the ancient Romans refer to as Hibernia ?
+2758 LOC:city What city in the U.S. experienced the most growth recently ?
+2760 LOC:other What Tokyo street glitters with famed department stores and nightclubs ?
+2777 LOC:country What country are you in if you woo in the Wu dialect ?
+2786 LOC:city What South American city features the exclusive Copacabana Beach and Ipanema ?
+2787 LOC:city What German city do Italians call The Monaco of Bavaria ?
+2788 LOC:other What island group contains Jersey , Guernsey , Sark and Herm ?
+2791 LOC:other Where was helium first discovered , hence its name ?
+2799 LOC:country What country is the setting for Edgar Allan Poe 's The Pit and the Pendulum ?
+2802 LOC:mount What is the second highest mountain peak in the world ?
+2811 LOC:other What 's the world 's largest cathedral ?
+2814 LOC:country What three European countries begin with the letter A ?
+2825 LOC:other What 's the world 's longest suspension bridge ?
+2826 LOC:city What Asian city boasts the world 's biggest bowling alley ?
+2833 LOC:city What were the first three cities to have a population of more than a million ?
+2834 LOC:other What constellation contains the twins Castor and Pollux ?
+2838 LOC:other What famed London criminal court was once a feudal castle ?
+2841 LOC:other Where did he get the title ?
+2842 LOC:other Where can I find a large list of 5 to 6 letter words ?
+2848 LOC:other Where does Mother Angelica live ?
+2864 LOC:other Where is the Mayo Clinic ?
+2865 LOC:other What Caribbean island is sometimes called Little England ?
+2866 LOC:other Where is Amsterdam ?
+2867 LOC:other Where can I find the lyrics for the song ` Getting Married Today ' from the musical ` Company ' ?
+2870 LOC:city What Australian city became the home of the America 's Cup ?
+2876 LOC:other What river does the Grand Coulee Dam dam ?
+2887 LOC:other What is a reliable site that I can download Heretic 2 ?
+2896 LOC:other Where did cable cars first roll down Clay Street in 1873 ?
+2897 LOC:other What is George Lucas 's e-mail address ?
+2913 LOC:city What Kenyan city is the safari center for East Africa ?
+2917 LOC:state What four U.S. states have active volcanoes ?
+2930 LOC:other What are the biggest Indian airports ?
+2932 LOC:other What are the world 's three largest oceans , in order of size ?
+2934 LOC:other Where on the Internet can I find information on laundry detergent ?
+2949 LOC:city What city is sometimes called The Athens of Switzerland ?
+2950 LOC:other Where did bocci originate ?
+2957 LOC:other Where can I find information about Bob Barr , representative from Georgia ?
+2969 LOC:city What were the cities of Dickens 's A Tale of Two Cities ?
+2976 LOC:country What countries have the best math students ?
+2988 LOC:other Where did Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , go to school ?
+2996 LOC:country What two countries in South America are landlocked ?
+3006 LOC:country Which country did Hitler rule ?
+3010 LOC:city The Orange Bowl is in what city ?
+3014 LOC:state What state was Herbert Hoover born in ?
+3029 LOC:state What state produces the best lobster to eat ?
+3032 LOC:other What islands got their name from the Spanish baja mar , meaning shallow water ?
+3043 LOC:country What was the nationality of Jackson Pollock ?
+3047 LOC:country What is the name of the country which Hitler ruled ?
+3050 LOC:other Where can I get U.S. economic statistics ?
+3059 LOC:city What 's the capital of Iowa ?
+3073 LOC:other What is the US Federal Government website for Standard Industrial Classification codes , SIC , ?
+3095 LOC:other Where is the Henry Ford Museum ?
+3101 LOC:city What are the 10 largest cities in the US ?
+3106 LOC:other What is Drew Barrymore 's email address ?
+3110 LOC:country What nationality were the 123 people who died in the Black Hole of Calcutta ?
+3132 LOC:other What is the name of the planet that the Ewoks live on ?
+3138 LOC:other What sea surrounds the Cayman Islands ?
+3141 LOC:other What ocean was Amelia Earhart flying over when she disappeared ?
+3146 LOC:country What country other than Germany invaded Poland in September 1939 ?
+3153 LOC:state What is the largest U.S. state east of the Mississippi ?
+3158 LOC:other What California desert is dubbed High Desert ?
+3163 LOC:other Where do the Blackhawks maintain their operations ?
+3165 LOC:country What African country was founded by freed American slaves in 1847 ?
+3167 LOC:city The Orange Bowl is located in what city ?
+3176 LOC:other What 's the nearest star to Earth ?
+3177 LOC:other Where is Inoco based ?
+3189 LOC:other What planet would you visit to see Bebrenia , Arcadia , and Amazonis ?
+3191 LOC:other Where is Natick ?
+3200 LOC:other Where is the Valley of the Kings ?
+3202 LOC:other Where did the sport of caber-tossing originate ?
+3204 LOC:other Where are the Union Stockyards ?
+3205 LOC:other Where does the weird shape of the dinner fish knife originate from ?
+3214 LOC:other Where does the U.S. get most of its energy ?
+3215 LOC:country What country , after Canada and Mexico , is closest to the U.S. ?
+3224 LOC:country What country has been called The Queen of the Antilles ?
+3225 LOC:other Where can I find a website that gives comparisons of good prices ?
+3228 LOC:state What state has the most Indians ?
+3232 LOC:other Where did Luther display his `` Ninety-Five Theses '' ?
+3235 LOC:other What river is Pocahontas buried along ?
+3241 LOC:other Where is Dartmouth College ?
+3246 LOC:other What river flows through Vienna , Budapest and Belgrade ?
+3251 LOC:other Which area produces the least acidic coffee ?
+3258 LOC:city What is the largest city in the world ?
+3262 LOC:other What are Britain 's two longest rivers ?
+3263 LOC:country What country covers 8 , 600 , 387 square miles ?
+3268 LOC:state In which state are the Mark Twain National Forests ?
+3269 LOC:other What is the oldest ethnological museum in the world ?
+3274 LOC:other Where have the most dinosaur remains been found ?
+3280 LOC:other What island has a park called The Battery at is southern tip ?
+3292 LOC:other What Caribbean island is northeast of Trinidad ?
+3296 LOC:other Where can I find book reviews of `` Turbulent Souls '' ?
+3312 LOC:state What is the fastest growing state in the U.S.A. in 1998 ?
+3317 LOC:other Where does the opera singer Ileana Cotrubas come from ?
+3323 LOC:other Where can I learn about Samuel Gompers ?
+3325 LOC:state What U.S. state 's biggest lake is Lake Sam Rayburn ?
+3329 LOC:state What state is Niagara Falls located in ?
+3335 LOC:other Where is the Orange Bowl ?
+3336 LOC:city What Scandinavian capital is built on nine bridge-connected islands ?
+3338 LOC:other Where is the Smithsonian Institute located ?
+3367 LOC:other What do most tourists visit in Reims ?
+3370 LOC:city What United States city produces the most oil ?
+3375 LOC:country What was the only country in the Western Hemisphere to join the Russian-led boycott of the 1984 Summer Olympics ?
+3376 LOC:other In what part of Africa is Mozambique located ?
+3386 LOC:other Where is Poe 's birthplace ?
+3396 LOC:other Where can I find detailed information about Manchukuo ?
+3401 LOC:other Where 's the GUM department store ?
+3403 LOC:state What state was named the Green Mountain state ?
+3406 LOC:state What are all the southern states of the United States ?
+3417 LOC:other Where did Bill Gates go to college ?
+3418 LOC:other What constellation is known as The Water Bearer ?
+3424 LOC:other Where can I find the history of the Taiwanese language ?
+3425 LOC:state What state is Mount McKinley in ?
+3442 LOC:other Where is Kings Canyon ?
+3453 LOC:country What Asian country once thrilled to the sport of cricket fighting ?
+3465 LOC:city What city is near the mouth of the Amazon ?
+3470 LOC:other Where did the Inuits live ?
+3483 LOC:other What former royal palace has served as a granary , prison , arsenal , leper colony , mint , telegraph station and whorehouse before becoming an art museum ?
+3484 LOC:other Where was `` I have fallen , and I can 't get up '' said first ?
+3489 LOC:other Where did the Wright brothers make their first flight ?
+3494 LOC:city What is the snowiest city in the U.S. ?
+3515 LOC:city What South American capital is the world 's highest ?
+3517 LOC:other Name a civil war battlefield .
+3525 LOC:other What famed strip of land is a 15-minute boat trip across the Venetian Lagoon from Venice ?
+3532 LOC:other Which continent has the most roses ?
+3542 LOC:mount What are the four largest mountain ranges on the Asian continent ?
+3551 LOC:other Where in the Bible does it tell about Jesus Christ 's brothers and sisters ?
+3552 LOC:country What country boasts the southernmost point in continental Europe ?
+3556 LOC:country What country was Brian Boru an 11th-century king of ?
+3563 LOC:other Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place ?
+3569 LOC:city What state capital comes last alphabetically ?
+3576 LOC:other Where is former Pro wrestler Johnny `` Rubber Man '' Walker ?
+3578 LOC:other What is the geographical center of the US including Alaska and Hawaii ?
+3595 LOC:country What country has the port of Haifa ?
+3598 LOC:other What is the address for the main government office in Rome , Italy ?
+3616 LOC:other Where is Romania located ?
+3621 LOC:city What city did the Mormons establish as their headquarters in 1847 ?
+3623 LOC:country What two countries are linked by the Brenner Pass ?
+3625 LOC:state Mississippi has what name for a state nickname ?
+3627 LOC:city What U.S. city was named for St. Francis of Assisi ?
+3632 LOC:other Where can I get a photograph of professor Randolph Quirk ?
+3648 LOC:other What is the principal river of Ireland ?
+3649 LOC:other What lake is the source of the White Nile ?
+3670 LOC:other What are all the rivers in Europe ?
+3679 LOC:country What 's the fifth-largest country in the world ?
+3699 LOC:country In what country is Lund ?
+3701 LOC:city What is the capital of Seattle ?
+3703 LOC:city What city in Florida is Sea World in ?
+3710 LOC:other Where does the tennis star Stefan Edberg come from ?
+3711 LOC:other What continent pushes up the Executive Committee mountain range ?
+3717 LOC:city What is the largest city in Germany ?
+3719 LOC:other What park contains Firehole River and Fairy Falls ?
+3720 LOC:other What 's the largest island in the West Indies ?
+3721 LOC:state What New England state carries the telephone area code 27 ?
+3723 LOC:other In what county is Eckley Colorado ?
+3730 LOC:city What city hosted the first Winter Olympics in Asia ?
+3742 LOC:country What desert country borders Saudi Arabia , Iraq and the Persian Gulf ?
+3750 LOC:other Where are the headquarters of Eli Lilly ?
+3754 LOC:other Where can I find info on research being done on oilseeds thru genetics ?
+3760 LOC:other Where did the Mayan Indians live ?
+3761 LOC:other Where was Poe born ?
+3766 LOC:other Where did Dylan Thomas die ?
+3782 LOC:other What was the tallest building in America in 1922 ?
+3788 LOC:city What New Hampshire hamlet rises early to vote first in U.S. presidential elections ?
+3797 LOC:other Where do the Grimace and Mayor McCheese live ?
+3800 LOC:other Where is the world championship sled dog race held each February ?
+3868 LOC:other Where is your corpus callosum ?
+3873 LOC:other When Superman needs to get away from it all , where does he go ?
+3884 LOC:other Where can I get cotton textiles importer details ?
+3893 LOC:other What canal does the Thatcher Ferry Bridge span ?
+3897 LOC:other Where can I find a lesson plan for teaching the metric system conversion to American standard ?
+3909 LOC:other Where did George of the Jungle live ?
+3922 LOC:other Where do I find information for foreclosure properties on the Internet ?
+3925 LOC:country Which Latin American country is the largest ?
+3926 LOC:other What was the former residence of Scottish kings in Edinburgh ?
+3930 LOC:country What country buys 25 percent of the world 's tea exports ?
+3931 LOC:country What country is the origin of the band the Creeps ?
+3936 LOC:other Where is the biggest bell ?
+3948 LOC:country What country offered Albert Einstein its presidency in 1952 ?
+3957 LOC:other What bay sparkles next to Miami , Florida ?
+3959 LOC:other What famed river flows through Bagdad ?
+3968 LOC:other Where can one find information on religion and health , the brain and nutrition ?
+3981 LOC:other What erupts every hour at Yellowstone National Park ?
+3982 LOC:country What country contains the highest point in South America ?
+3985 LOC:other What constellation represents a hunter with club and shield ?
+3992 LOC:city What Russian seaport has a name meaning `` Lord of the East '' ?
+3996 LOC:mount What Rocky Mountain ridge separates North America 's eastward and westward-flowing rivers ?
+4001 LOC:other What gate opened on East and West Berlin ?
+4008 LOC:other What 's the farthest planet from the sun ?
+4028 LOC:other What 's the name of a hotel in Indianapolis ?
+4030 LOC:other Where is Melbourne ?
+4032 LOC:country What country was Mikhail Gorbachev the leader of ?
+4035 LOC:other What is the largest county in size in Massachusetts ?
+4042 LOC:other What natural attractions draw the most visitors in the United States ?
+4051 LOC:other What river runs through Liverpool ?
+4055 LOC:country What country was Kim Philby really working for ?
+4057 LOC:country What country was Hitler the chancellor of ?
+4068 LOC:city What North American city would you visit to see Cleopatra 's Needle ?
+4070 LOC:other Where can I find an Ask An Expert site ?
+4072 LOC:state What U.S. state has the lowest highest elevation at 6 feet ?
+4080 LOC:other Where is Mile High Stadium ?
+4083 LOC:city What city contains the district of Hell 's Kitchen ?
+4094 LOC:other Which one of the Great Lakes is entirely within U.S. territory ?
+4097 LOC:state What U.S. state has sagebrush as its state flower ?
+4103 LOC:country What nationality is Pope John Paul II ?
+4107 LOC:other Where are some great educational resources for parents and teachers ?
+4111 LOC:other What New York City landmark has 168 steps to its crown ?
+4112 LOC:other Where is the Bulls basketball team based ?
+4124 LOC:mount What 's the second-highest mountain in the world ?
+4125 LOC:country What country was Erich Honecker the leader of ?
+4127 LOC:city What two Japanese cities are spelled with the letters K , O , O , T and Y ?
+4130 LOC:other Where did Wile E. Coyote always get his devices ?
+4141 LOC:other Where can an individual get a contact lens tested that burned the entire surface of eye when new ?
+4142 LOC:country What countries does the Mont Blanc Tunnel join ?
+4147 LOC:state What eastern state sprouted the first commercial nuclear power plant in the U.S. ?
+4148 LOC:country What are the three most populated countries in the world ?
+4156 LOC:other What is the largest office block in the world ?
+4160 LOC:country What country did the Romans call Hibernia ?
+4165 LOC:country What two countries fought the Hundred Years ' War ?
+4176 LOC:country What country will hit the year 2 first ?
+4181 LOC:other What square is the geographical center of London ?
+4183 LOC:city What is the most populated city in the world ?
+4189 LOC:other Where did Victor Hugo spend his exile ?
+4201 LOC:state What state did Helen Keller call home ?
+4206 LOC:country What country 's royal house is Bourbon-Parma ?
+4215 LOC:country What country would you visit to ski in the Dolomites ?
+4225 LOC:city What African capital is named for a U.S. president ?
+4227 LOC:other What Mediterranean island is home to the first Club Med ?
+4230 LOC:other Where can you find the Venus flytrap ?
+4233 LOC:other What building built in 18 contains 327 miles of book shelves ?
+4242 LOC:city What U.S. city 's skyline boasts the Gateway Arch ?
+4243 LOC:other Where is Belize located ?
+4250 LOC:state What state does Charles Robb represent ?
+4259 LOC:state What U.S. state boasts Stone Mountain , the world 's largest mass of exposed granite ?
+4271 LOC:country What southeast Asian country has the Wang River joining the Ping River at Tak ?
+4272 LOC:city What Italian city of 155 were Leonardo da Vinci , Michaelangelo , and Machiavelli all working in ?
+4280 LOC:city What is the name of the largest city in Chile , South America ?
+4288 LOC:other What is the best online games site ?
+4297 LOC:other On what avenue is the original Saks department store located ?
+4298 LOC:other Where does the song Anything Goes take place ?
+4299 LOC:other Where was the first zoo in the U.S. ?
+4311 LOC:country What country 's flag is field green ?
+4330 LOC:other Where can I read about Chiang Kai-shek ?
+4332 LOC:country What country borders the most others ?
+4334 LOC:other What river runs through Colorado , Kansas , and Oklahoma ?
+4353 LOC:other Where does tuberculosis come from ?
+4355 LOC:other Where can I find lyrics for R&B ?
+4363 LOC:country What two countries are separated by the Bering Strait ?
+4366 LOC:country Jackson Pollock is of what nationality ?
+4377 LOC:other Where on the Internet can I get chemicals importers ?
+4378 LOC:country What was the first country to put a second woman in space ?
+4383 LOC:other What prison is found in Ossining , New York ?
+4384 LOC:country What country has declared one-fifth of its territory off-limits to Russians ?
+4391 LOC:other What is the longest river in the United States ?
+4393 LOC:other What river is Windsor Castle on ?
+4395 LOC:other Where is Natchitoches , Louisiana ?
+4400 LOC:city What 's the capital of Taiwan ?
+4406 LOC:city What city is served by Tempelhol Airport ?
+4412 LOC:other Where in the United States do people live the longest ?
+4413 LOC:country What country in 1998 had the most suicides regardless of population size ?
+4430 LOC:other What is the name of the planet that the Ewoks live on ?
+4454 LOC:other What celestial body has a diameter of 864 , 000 miles ?
+4461 LOC:country What country borders Denmark to the south ?
+4467 LOC:other Where do you find the answers for all these questions ?
+4475 LOC:city What city is . KDGE Radio located in ?
+4478 LOC:city What city was Bobby Kennedy assassinated in ?
+4481 LOC:other What London museum features a Chamber of Horrors ?
+4482 LOC:city What city is served by McCarren Airport ?
+4499 LOC:state What state on the Gulf of Mexico has its lowest point five feet below sea level ?
+4501 LOC:other Where can I find a case on Americans with Disabilities Act of 199 ?
+4507 LOC:other Where is the Keck telescope ?
+4509 LOC:other Where are the apartments in Saint John , New Brunswick ?
+4511 LOC:country What country did the Mau Mau Uprising take place in ?
+4512 LOC:other What are some good medical sites for information ?
+4525 LOC:other Where were the 196 Summer Olympics held ?
+4526 LOC:other Where is Los Vegas ?
+4527 LOC:country Name the country which Honecker lived in .
+4528 LOC:state What U.S. state are the Finger Lakes in ?
+4530 LOC:city What are the ten safest American cities for pedestrians ?
+4533 LOC:other Where can I find a picture of a Blue Meanie ?
+4535 LOC:state What U.S. state does the Continental Divide leave to enter Canada ?
+4539 LOC:other What 's the name of the Wilkes plantation in Gone with the Wind ?
+4541 LOC:other Where is the Statistical Abstract of the United States online ?
+4563 LOC:other What was Einstein 's birthplace ?
+4575 LOC:other Where are the Austerlitz and Victor Hugo subway stops ?
+4576 LOC:other Where did Ty Cobb grow up ?
+4591 LOC:other What general direction does the journey in Around the World in 80 Days proceed in ?
+4596 LOC:mount What is New England 's highest mountain ?
+4617 LOC:country In what nation is Edessa located nowadays ?
+4618 LOC:country Name a country that is developing a magnetic levitation railway system ?
+4625 LOC:other Where is the largest dam in the world ?
+4630 LOC:other In what part of the world is Mozambique ?
+4640 LOC:other What man-made waterways is 1.76 miles long ?
+4642 LOC:other On what river is Strasbourg built ?
+4644 LOC:country What country is located at 13 degrees North latitude and 10 degrees East longitude ?
+4645 LOC:other Where are the busiest ports in the world ?
+4648 LOC:city What city does McCarren Airport serve ?
+4662 LOC:other Where can I find up-to-date coastal ocean surface temperature information , preferably along North America and the Caribbean ?
+4664 LOC:city What are the two cities in Dicken 's `` A Tale of Two Cities '' ?
+4667 LOC:other What river runs through Liverpool ?
+4676 LOC:other What 's the longest river in Canada ?
+4690 LOC:mount What mountain range marks the border of France and Spain ?
+4735 LOC:other What is the location of McCarren Airport ?
+4747 LOC:other What is the largest island in the Mediterranean Sea ?
+4749 LOC:other Where is Rider College ?
+4750 LOC:other Where was chop suey invented ?
+4753 LOC:other Where does dew come from ?
+4756 LOC:other What landmark Italian restaurant can be found at 239 West 48th Street , New York City ?
+4759 LOC:other What are some mythology websites ?
+4763 LOC:country What nationality is Ileana Cotrubas ?
+4774 LOC:other Where did the world come from ?
+4777 LOC:other What island group is Guadalcanal a part of ?
+4783 LOC:country What 's the only East european country not tied to the ruble ?
+4800 LOC:country What country has the highest arson rate ?
+4804 LOC:city What city does Orly Airport serve ?
+4805 LOC:other Where did Woodstock take place ?
+4809 LOC:country What are the top five oil-producing countries in the world ?
+4811 LOC:other Where can one find Rider College ?
+4824 LOC:country What countries have the most auto thefts ?
+4838 LOC:country What country boasts Ismail 's Palace and the Palace of King Farouk ?
+4841 LOC:other Where could I go to take a ride on a steam locomotive ?
+4847 LOC:other Where is the Virtual Desk Reference ?
+4859 LOC:other Where is the bridge over the river Kwai ?
+4870 LOC:country What Scandinavian country covers 173 , 732 square miles ?
+4875 LOC:other Where can I get mailing lists ?
+4876 LOC:city What city boasts the Billingsgate fishmarket ?
+4879 LOC:country What country lies directly south of Detroit ?
+4880 LOC:other Where did surfing originate ?
+4883 LOC:mount What is the tallest mountain ?
+4902 LOC:other Where did the Maya people live ?
+4906 LOC:state Kosovo is a province of what country ?
+4907 LOC:state What New England state covers 5.9 square miles ?
+4912 LOC:other Where are the Haversian canals ?
+4917 LOC:other Where can I find the status of my tax return ?
+4928 LOC:other Where is the Kentucky Horse Park ?
+4930 LOC:country What country boasts the most cars per mile of road ?
+4941 LOC:city What Russian city used to be called St. Petersburg and Petrograd ?
+4963 LOC:other What are some good fractal web sites ?
+4964 LOC:country What country imposed the Berlin Blockade in 1948 ?
+4969 LOC:other What kind of habitat does the scorpion live in ?
+4971 LOC:other Where is Webster University ?
+4976 LOC:other Where can I get piano music for the Jamiroquai song Everyday for the midi ?
+4978 LOC:country What country 's capital was formed when Pesth and Buda merged ?
+4981 LOC:city What town was the setting for The Music Man ?
+4989 LOC:other Where can I find scientific data , `` research papers , '' on textile engineering ?
+4997 LOC:other Where can I read about Abraham Lincoln ?
+5011 LOC:other Where can I find a tape or book to help me say , write and understand Japanese ?
+5014 LOC:other What was the birthplace of Edgar Allen Poe ?
+5019 LOC:other What room did W.C. Fields keep his library in ?
+5024 LOC:other Where can I find the schematics to the windshield wiper mechanism ?
+5027 LOC:other Where is `` Global Schoolhouse '' ?
+5030 LOC:other What volcano showers ash on Sicily ?
+5031 LOC:other Where are the U.S. headquarters for Procter & Gamble ?
+5051 LOC:city What is the capital of Uruguay ?
+5058 LOC:other What are the largest deserts in the world ?
+5059 LOC:other Where is Qatar ?
+5061 LOC:state What is the richest state in the U.S. ?
+5071 LOC:other What California bridge was Don Brown the first to cross , on May 27 , 1937 ?
+5079 LOC:city What was the largest city in the world to declare martial law in 1989 ?
+5081 LOC:other Where is the Thomas Edison Museum ?
+5083 LOC:mount What is the name of the highest mountain in Africa ?
+5084 LOC:mount What mountain range extends from the Gulf of St. Lawrence to Alabama ?
+5097 LOC:city What is the largest city in Connecticut ?
+5103 LOC:other Where can I find free piano scores for popular music ?
+5105 LOC:country What country is the largest diamond producer ?
+5125 LOC:city What 's the capital of Monaco ?
+5133 LOC:state What state is the Filenes store located in ?
+5142 LOC:other Where is the official `` zero '' of the sea level ?
+5158 LOC:other What is the seafaring name for the southern tip of South America ?
+5165 LOC:country What country owns Corsica ?
+5172 LOC:other Where can I find a world atlas map online at no charge ?
+5176 LOC:other What ocean did the Titanic sink in ?
+5180 LOC:state What southwestern state is dubbed The Silver State ?
+5184 LOC:country What country did the Allies invade in World War II 's Operation Avalanche ?
+5185 LOC:other What famed river was Hernando de Soto the first European to see ?
+5189 LOC:other Where do quality drinks begin ?
+5194 LOC:country What country surrounds San Marino , the world 's smallest Republic ?
+5205 LOC:other What direction do the best surfing beaches face ?
+5211 LOC:other What California bay 's largest island is Angel Island ?
+5215 LOC:other What California bridge was Don Brown the first to cross , on May 27 , 1937 ?
+5221 LOC:other Where is the oldest living thing on earth ?
+5234 LOC:other What bay divides Maryland 's Eastern and Western Shores ?
+5251 LOC:other Where can I find info on Alexander Mackenzie ?
+5253 LOC:city What Georgia town did Scarlett O 'Hara condemn as being full of pushy people ?
+5261 LOC:other Where did the real St. Nicholas live ?
+5270 LOC:other Where did Dikembe Mutombo go to college ?
+5272 LOC:other What body of water does the Yukon River empty into ?
+5275 LOC:other What is Mark McGwire 's e-mail address ?
+5277 LOC:city The Kentucky Horse Park is located near what city ?
+5285 LOC:other Where is the massive North Korean nuclear complex located ?
+5287 LOC:other Where is Microsoft 's corporate headquarters located ?
+5299 LOC:other What Asian gulf were the destroyers Maddox and C Turner Joy shot up in ?
+5324 LOC:other What is the Homelite Inc. home page ?
+5332 LOC:other What are the names of all the seas in the world and what ocean do they drain into ?
+5334 LOC:mount Name the highest mountain .
+5337 LOC:other What island is home to statues called Mauis ?
+5342 LOC:other Where was Pythagoras born ?
+5348 LOC:city What is the capital of Italy ?
+5352 LOC:other What is the greatest hiking Web site ?
+5362 LOC:other What ocean surrounds the Madeira Islands ?
+5365 LOC:city What are the capital cities of the two large countries that occupy the Iberian peninsula in Europe ?
+5377 LOC:city In Sinclair Lewis ' `` Main Street , '' what was the name of the typical American town ?
+5379 LOC:city What is the largest city in Texas ?
+5382 LOC:other Where can I get a map of Prussia on the Internet ?
+5385 LOC:country What are the five richest countries in the world ?
+5386 LOC:other Where is McCarren Airport ?
+5403 LOC:state What state in the United States covers the largest area ?
+5426 LOC:other What web sites are linked to the Report on Genesis Eldercare ?
+5433 LOC:other Where is McCarren Airport located ?
+5435 LOC:other What part of Britain comprises the Highlands , Central Lowlands , and Southern Uplands ?
+5438 LOC:country What country is proud to claim Volcano National Park ?
+5442 LOC:other What direction do most baseball pitchers pitch toward ?
+5446 LOC:other Where are diamonds mined ?
+5457 LOC:city What city has a newspaper called The Plain Dealer ?
+5458 LOC:state What U.S. state boasts Leif Ericson Park ?
+5468 LOC:other Where did the ukulele originate ?
+5472 LOC:other What is the name of the gulf between Sweden and Finland ?
+5477 LOC:country What two countries is Andorra nestled between ?
+5480 LOC:mount What are the four largest mountain ranges in the continental United States ?
+5486 LOC:other What is the Homelite Inc. home page ?
+5499 LOC:other Where was Tesla born ?
+5505 LOC:other What 's the most common street name in America ?
+5511 LOC:other What are the top 5 tallest buildings in the world ?
+5515 LOC:country What country has problems with hooligans ?
+5516 LOC:other What planet did Percival Lovell discover ?
+5520 LOC:country What country contains the westernmost point in South America ?
+5539 LOC:city What Southern California town is named after a character made famous by Edgar Rice Burroughs ?
+5541 LOC:other What is the habitat of the chickadee ?
+5545 LOC:city What city 's the kickoff point for climbs of Mount Everest ?
+5547 LOC:other Where is the largest post office building in the world ?
+5560 LOC:city Which large U.S. city had the highest murder rate for 1988 ?
+5574 LOC:country What country was General Douglas McArthur in when he was recalled by President Truman ?
+5588 LOC:country What country does Ileana Cotrubas come from ?
+5590 LOC:country What two European countries are joined by the Gran San Bernardo Pass ?
+5607 LOC:other Where is the Taj Mahal ?
+5609 LOC:other In 139 the papal court was forced to move from Rome to where ?
+5612 LOC:city What capital is built around Monument Circle which contains soldiers and sailors monument ?
+5618 LOC:other What famed wall supports the Badaling turret ?
+5624 LOC:other Where are good science sites on the Internet ?
+5633 LOC:other Where are the busiest Amtrak rail stations in the U.S. ?
+5642 LOC:other Where was the largest concentration camp in World War II ?
+5646 LOC:other What were the first bodies visited by spacecraft ?
+5652 LOC:city What city was Martin Luther King Jr. assassinated in ?
+5654 LOC:other Where 's the Bernini-Bristol Hotel ?
+5656 LOC:city What is the capital of Kosovo ?
+5659 LOC:city What were the first three cities to have a population of more than a million ?
+5667 LOC:country What country is the biggest producer of tungsten ?
+5672 LOC:country What European country abandoned postage stamps in 1923 because printing them cost more than their face value ?
+5687 LOC:country What nationality is a Sicilian ?
+5693 LOC:other What is the oldest building in the United States ?
+5706 LOC:city What Japanese city was once called Edo ?
+5710 LOC:other Where is one 's corpus callosum found ?
+5718 LOC:city What 's the oldest capital city in the Americas ?
+5720 LOC:other What is the location of Edinburgh , Scotland ?
+5726 LOC:country Jackson Pollock was a native of what country ?
+5734 LOC:other What island was the target of the U.S. 's Operation Urgent Fury ?
+5746 LOC:country What 's the most powerful country in the world ?
+5761 LOC:other Where do lobsters like to live ?
+5773 LOC:city What two cities usually mark the extremes of English Channel swims ?
+5789 LOC:other Where can I get information concerning child custody files for the State of Utah ?
+5805 LOC:country What country saw the origin of the Asian Flu ?
+5807 LOC:other Where can I take a test that will tell me what I should be when I grow up ?
+5811 LOC:other What lake in Scotland is said to hold one or more monsters ?
+5819 LOC:other What famed library can you reach by dialing 22-287-5 ?
+5823 LOC:other Where can I get a complete listing of showtimes in my area ?
+5824 LOC:other Where 's Montenegro ?
+5830 LOC:other Where is Glasgow ?
+5835 LOC:city What North American city boasts the biggest Polish population ?
+5837 LOC:other Where is it planned to berth the merchant ship , Lane Victory , which Merchant Marine veterans are converting into a floating museum ?
+5848 LOC:other What is the oldest website on the Internet ?
+5860 LOC:country What country are you visiting if you land at President Duvalier Airport ?
+5862 LOC:city What is the capital of Congo ?
+5864 LOC:country What is a country that starts with the letter x ?
+5865 LOC:country What countries earn the most from tourism ?
+5867 LOC:city Which city in China has the largest number of foreign financial companies ?
+5880 LOC:other Where are zebras most likely found ?
+5882 LOC:other What is the best place to live in the world , considering climate , civilization ?
+5893 LOC:other What is the web address at which I can find the e-mail address of a member of the US House of Representatives ?
+5902 LOC:other What river flows past the Temple of Karnak ?
+5905 LOC:other Where do you find information about the Queensland National Competition Policy
+5915 LOC:other Where can I get information on the original 13 US colonies ?
+5925 LOC:city What North American city sprouts the most parking meters ?
+5926 LOC:other What is the largest and most expensive freeway construction project in the U.S. right now ?
+5929 LOC:other Where did Gulliver find a race of tiny people ?
+5940 LOC:other Where did the Japanese Imperial Forces surrender to end WWII ?
+5950 LOC:city What city would you be in if you were feeding the pigeons in the Piazza San Marco ?
+5952 LOC:other What is the name of the planet that the Ewoks live on ?
+5954 LOC:other Where is there information on the novel `` El Cid '' ?
+5964 LOC:other Where is Burma ?
+5975 LOC:other Where did the name Daniel originate ?
+5981 LOC:state What states do not have state income tax ?
+5982 LOC:city What city has the two steepest streets in the U.S. ?
+5984 LOC:country Name the country of giants twelve times the size of man in `` Gulliver 's Travels . ''
+5988 LOC:other Where does most of the marijuana entering the United States come from ?
+6008 LOC:country What country boasts Cawdor Castle , Glamis Castle , and Blair Castle ?
+6011 LOC:country What country is Mount Everest in ?
+6012 LOC:country Which country is the largest country in Latin America ?
+6022 LOC:other Where did King Francis I hang the `` Mona Lisa '' when he owned it ?
+6029 LOC:other Where can I find the history of the Hungarian language ?
+6053 LOC:state What U.S. state comes last in an alphabetical list ?
+6069 LOC:state What U.S. state includes the San Juan Islands ?
+6081 LOC:other What London street claims to be the world center for men 's tailoring ?
+6086 LOC:country What bordering country is due north of Costa Rica ?
+6088 LOC:country What nation boarders Mozambique ?
+6099 LOC:city What is the capital of California ?
+6100 LOC:country What country comes last in an alphabetical list ?
+6109 LOC:country What country is the worlds leading supplier of cannabis ?
+6112 LOC:city What city is the Kentucky Horse Park near ?
+6116 LOC:other Where did Hillary Clinton graduate college ?
+6152 LOC:country What is the country of origin for the name Thomas ?
+6155 LOC:country What country has the highest per capita consumption of cheese ?
+6159 LOC:other What sea is Bombay on ?
+6165 LOC:other Where in the Americas is it only 47 miles from the Atlantic to the Pacific ?
+6169 LOC:city What U.S. city is known as The Rubber Capital of the World ?
+6170 LOC:country What countries have the highest ratio of university students ?
+6182 LOC:other Where are there aborigines ?
+6186 LOC:other On what river is Rome built ?
+6187 LOC:other Where on the Web is Adventours Tours from Sydney , Australia ?
+6188 LOC:other Where were the 1936 Summer Olympics held ?
+6189 LOC:other What cathedral was Thomas Becket murdered in ?
+6192 LOC:city The Kentucky Horse Park is close to which American city ?
+6197 LOC:other Where in a tree does photosynthesis occur ?
+6199 LOC:other What strait links the Mediterranean Sea and the Atlantic Ocean ?
+6200 LOC:other What airport is on the Piccadilly subway line ?
+6206 LOC:city What city 's airport is named Logan International ?
+6212 LOC:state What is the nickname of Pennsylvania ?
+6222 LOC:other What is the largest museum in the world ?
+6229 LOC:other Where did makeup originate ?
+6235 LOC:state What U.S. state is Mammoth Cave National Park in ?
+6243 LOC:country In what country is a stuck-out tongue a friendly greeting ?
+6246 LOC:other Where is Erykah Badu originally from ?
+6247 LOC:other Where can I buy a pony on the Big Island for my daughter ?
+6254 LOC:other What is the address of the famous Mexican star `` Thalia '' ?
+6277 LOC:other What planet gave bith to Superman ?
+6281 LOC:country What is the most important nation in the world , historically ?
+6293 LOC:other Where is the group M People from ?
+6294 LOC:country What country is famous for Persian rugs ?
+6301 LOC:city What city is graced by the Arch of Titus ?
+6306 LOC:other Where is the world 's most active volcano located ?
+6308 LOC:country What country is bounded in part by the Indian Ocean and Coral and Tasman seas ?
+6317 LOC:other Where is Ayer 's rock ?
+6325 LOC:city What city 's theatrical district has been dubbed The Roaring Forties ?
+6333 LOC:other Where was George Washington born ?
+6337 LOC:country What two Caribbean countries share the island of Hispaniola ?
+6343 LOC:mount What continent 's second-highest peak is Mont Blanc ?
+6344 LOC:city What Peruvian city is home to the mummified body of Francisco Pizarro ?
+6351 LOC:country What nationality is Gorbachev ?
+6363 LOC:other What ocean surrounds the Maldive Islands ?
+6364 LOC:country What South American country won its first World Cup soccer title in 1978 ?
+6368 LOC:other What colorful sea 's region does Greek legend say the Amazons lived near ?
+6370 LOC:other On what continent is Mozambique ?
+6383 LOC:other What is the U.S. location of Procter & Gamble corporate offices ?
+6385 LOC:state What state is known as the Hawkeye State ?
+6387 LOC:state What are all the southern states of the U.S. ?
+6388 LOC:other What does the River Seine empty into ?
+6391 LOC:state What state did Anita Bryant represent in the 1959 Miss America contest ?
+6399 LOC:other Where is South Bend ?
+6400 LOC:country What country has the most coastline ?
+6401 LOC:state What two states is Washington D.C. between ?
+6411 LOC:other What botanical marvel did Nebuchadnezzar build ?
+6428 LOC:country What European country 's monarchy was restored in 1975 ?
+6432 LOC:country What country is home to Heineken beer ?
+6437 LOC:other What is the highest continent ?
+6441 LOC:other Where can I find information on becoming a journalist ?
+6443 LOC:city In what city does Maurizio Pellegrin now live ?

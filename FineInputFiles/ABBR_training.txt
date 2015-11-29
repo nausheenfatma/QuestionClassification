@@ -1,0 +1,104 @@
+5 ABBR:exp What is the full form of .com ?
+31 ABBR:exp What does the abbreviation AIDS stand for ?
+147 ABBR:exp What does INRI stand for when used on Jesus ' cross ?
+221 ABBR:exp What does S.O.S. stand for ?
+261 ABBR:exp CNN is the abbreviation for what ?
+294 ABBR:exp What does ` PSI ' stand for ?
+304 ABBR:abb What is the abbreviation for micro ?
+307 ABBR:exp What does NASDAQ stand for ?
+308 ABBR:exp What is BPH ?
+381 ABBR:abb What is the abbreviation of the company name ` General Motors ' ?
+443 ABBR:exp What does G.M.T. stand for ?
+518 ABBR:exp What does SIDS stand for ?
+589 ABBR:exp When reading classified ads , what does EENTY : other stand for ?
+668 ABBR:abb What is the abbreviated expression for the National Bureau of Investigation ?
+827 ABBR:exp What does NAFTA stand for ?
+847 ABBR:exp What is the full name of the PLO ?
+853 ABBR:exp What does the word LASER mean ?
+979 ABBR:exp What does NN O `` mean when used as a prefix in Irish surnames ?
+1003 ABBR:exp What is the full form of .com ?
+1029 ABBR:exp What does the abbreviation AIDS stand for ?
+1146 ABBR:exp What does INRI stand for when used on Jesus ' cross ?
+1220 ABBR:exp What does S.O.S. stand for ?
+1260 ABBR:exp CNN is the abbreviation for what ?
+1293 ABBR:exp What does ` PSI ' stand for ?
+1303 ABBR:abb What is the abbreviation for micro ?
+1306 ABBR:exp What does NASDAQ stand for ?
+1307 ABBR:exp What is BPH ?
+1380 ABBR:abb What is the abbreviation of the company name ` General Motors ' ?
+1442 ABBR:exp What does G.M.T. stand for ?
+1517 ABBR:exp What does SIDS stand for ?
+1588 ABBR:exp When reading classified ads , what does EENTY : other stand for ?
+1667 ABBR:abb What is the abbreviated expression for the National Bureau of Investigation ?
+1826 ABBR:exp What does NAFTA stand for ?
+1846 ABBR:exp What is the full name of the PLO ?
+1852 ABBR:exp What does the word LASER mean ?
+1978 ABBR:exp What does NN O `` mean when used as a prefix in Irish surnames ?
+2195 ABBR:exp What does Ms. , Miss , and Mrs. stand for ?
+2255 ABBR:exp What does the abbreviation cwt. ?
+2277 ABBR:exp What do the letters ZIP stand for in the phrase `` ZIP code '' ?
+2347 ABBR:exp What do the letters D.C. stand for in Washington , D.C. ?
+2394 ABBR:exp What does e.g. stand for ?
+2452 ABBR:exp What does IBM stand for ?
+2658 ABBR:exp What does U.S.S.R. stand for ?
+2714 ABBR:exp What does NECROSIS mean ?
+2740 ABBR:abb What is the abbreviation of General Motors ?
+2883 ABBR:exp What does CNN stand for ?
+2982 ABBR:abb What 's the abbreviation for trinitrotoluene ?
+2985 ABBR:exp What is IOC an abbreviation of ?
+3065 ABBR:abb What is the abbreviated form of the National Bureau of Investigation ?
+3083 ABBR:exp What does the `` c '' stand for in the equation E=mc2 ?
+3135 ABBR:exp What is a `` USB '' port on a computer ?
+3140 ABBR:exp What does LOL mean ?
+3250 ABBR:exp What does IOC stand for ?
+3354 ABBR:abb What is the acronym for the National Bureau of Investigation ?
+3377 ABBR:abb What is the abbreviated term used for the National Bureau of Investigation ?
+3430 ABBR:exp What is RCD ?
+3498 ABBR:exp What does SHIELD stand for ?
+3531 ABBR:abb What 's the abbreviation for limited partnership ?
+3590 ABBR:exp What does the abbreviation IOC stand for ?
+3647 ABBR:abb What is the abbreviation of the National Bureau of Investigation ?
+3690 ABBR:exp What is HTML ?
+3738 ABBR:exp What does A&W of root beer fame stand for ?
+3953 ABBR:exp What is AFS ?
+4095 ABBR:exp What is DEET ?
+4137 ABBR:exp What is DTMF ?
+4186 ABBR:exp What does JESSICA mean ?
+4296 ABBR:exp What does MSG stand for ?
+4333 ABBR:exp What does the E stand for in the equation E=mc2 ?
+4339 ABBR:exp What does VCR stand for ?
+4392 ABBR:exp What does the channel ESPN stand for ?
+4408 ABBR:exp CNN is an acronym for what ?
+4518 ABBR:exp What does NASA stand for ?
+4548 ABBR:abb What does the number `` 5 '' stand for on FUBU clothing ?
+4619 ABBR:exp What does BTU mean ?
+4659 ABBR:exp In a computer , what does SCSI mean ?
+4736 ABBR:exp What does the abbreviation OAS stand for ?
+4785 ABBR:exp What does HIV stand for ?
+4793 ABBR:exp What is HDLC ?
+4908 ABBR:abb What is the abbreviation for Original Equipment Manufacturer ?
+4957 ABBR:exp What does snafu stand for ?
+5052 ABBR:exp What does the T.S. stand for in T.S. Eliot 's name ?
+5102 ABBR:exp What does IQ stand for ?
+5169 ABBR:exp What is RAM in the computer ?
+5249 ABBR:exp What is SVHS ?
+5255 ABBR:exp What is SAP ?
+5260 ABBR:exp What do the letters CE stand for on so many products , particularly electrical , purchased now ?
+5307 ABBR:abb What is the correct way to abbreviate cc. at the bottom of a business letter ?
+5333 ABBR:exp What does BMW stand for ?
+5345 ABBR:exp What is LMDS ?
+5453 ABBR:exp What does `` B.Y.O.B. '' mean ?
+5556 ABBR:exp What does the acronym CPR mean ?
+5597 ABBR:exp What does RCA stand for ?
+5677 ABBR:abb What is the abbreviation of the International Olympic Committee ?
+5941 ABBR:abb What is Mikhail Gorbachev 's middle initial ?
+5961 ABBR:exp What does the `` blue ribbon '' stand for ?
+6002 ABBR:exp What does R.E.M. stand for , as in the rock group R.E.M. ?
+6010 ABBR:exp What does pH stand for ?
+6056 ABBR:exp What does BUD stand for ?
+6065 ABBR:exp CPR is the abbreviation for what ?
+6089 ABBR:exp What does EKG stand for ?
+6258 ABBR:exp What is p.m. an abbreviation for , as in 5 p.m. ?
+6260 ABBR:exp What does CPR stand for ?
+6307 ABBR:abb What is the acronym for the rating system for air conditioner efficiency ?
+6313 ABBR:exp What is DSL ?
