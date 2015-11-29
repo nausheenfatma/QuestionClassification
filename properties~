@@ -1,7 +1,0 @@
-trainingfilepath='/home/nausheenfatma/2nd Semester/Research/QuestionUnderstanding/QA2/training.txt'
-testfilepath=
-StanfordNerClassifier='/home/nausheenfatma/2nd Semester/Research/QuestionUnderstanding/QA2/classifiers/english.all.3class.distsim.crf.ser.gz'
-StanfordNerJarPath='/home/nausheenfatma/2nd Semester/Research/QuestionUnderstanding/QA2/stanford-ner-2014-06-16/stanford-ner.jar'
-CoarseOutputFilesPath=
-FineOutputFilesPath=
-WordFeaturesTrain
